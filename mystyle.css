@@ -23,6 +23,6 @@ a:active {
   text-decoration: underline;
 }
 </style>
-.markdown-block a {
+.md-block a {
     color: red !important;
 }
