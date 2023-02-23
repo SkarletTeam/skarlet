@@ -22,7 +22,7 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
-.markdown-block a {
+.md-block a {
     color: red !important;
 }
 </style>
