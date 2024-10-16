@@ -25,13 +25,19 @@ a:active {
 .md-block a {
     color: red !important;
 }
-table {
+        /* Center the table on the page */
+        table {
             background-color: white;
-            width: 100%; /* Optional: Set table width to 100% */
+            width: 50%; /* Optional: Adjust width as needed */
+            margin: 0 auto; /* Center the table horizontally */
             border: 1px solid #ccc; /* Optional: Add border */
         }
+
+        /* Center the content inside the table */
         td {
-            padding: 10px; /* Optional: Add padding to cells */
+            padding: 10px; /* Add padding to cells */
+            text-align: center; /* Center text horizontally */
+            vertical-align: middle; /* Center text vertically */
         }
 
 .credly-badge-container[data-share-badge-id="b0294240-a20e-4b24-94f6-db779fa4027f"],
