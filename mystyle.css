@@ -32,11 +32,10 @@ a:active {
 .credly-badge-container[data-share-badge-id="77ed919c-031f-4ddb-a243-35ab016e96c7"],
 .credly-badge-container[data-share-badge-id="0c931d6c-1d07-406c-8740-59dc0c5beb23"],
 .credly-badge-container[data-share-badge-id="2cf3d69e-a07a-4304-b8ed-b3d9807af64a"] {
-    background-color: #f0f0f0;  /* Light blue background */
+    background-color: #D3D3D3;
     padding: 15px;
     border-radius: 8px;
 }
-
 
 </style>
 
