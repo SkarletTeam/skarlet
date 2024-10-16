@@ -25,6 +25,14 @@ a:active {
 .md-block a {
     color: red !important;
 }
+table {
+            background-color: white;
+            width: 100%; /* Optional: Set table width to 100% */
+            border: 1px solid #ccc; /* Optional: Add border */
+        }
+        td {
+            padding: 10px; /* Optional: Add padding to cells */
+        }
 
 .credly-badge-container[data-share-badge-id="b0294240-a20e-4b24-94f6-db779fa4027f"],
 .credly-badge-container[data-share-badge-id="f449a5c2-c458-4270-9ad6-8765348f60ee"],
