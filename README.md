@@ -1,1 +1,1 @@
-This is my static website
+This is my website
