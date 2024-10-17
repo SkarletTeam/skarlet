@@ -188,11 +188,15 @@ a:active {
   width:34px;
   font-size:14px
 }
-.social-icons a.facebook:hover
+.social-icons a.prideflag:hover
+{
+  background-color:#FF2400
+}
+.social-icons a.discord:hover
 {
   background-color:#3b5998
 }
-.social-icons a.twitter:hover
+.social-icons a.github:hover
 {
   background-color:#00aced
 }
