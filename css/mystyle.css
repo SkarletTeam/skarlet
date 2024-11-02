@@ -190,23 +190,33 @@ a:active {
 }
 .social-icons a.prideflag:hover
 {
-  background-color:#FF2400
+  background-color:#FF2400;
+  max-height: 100%;
+  max-width: 100%;
 }
 .social-icons a.discord:hover
 {
-  background-color:#3b5998
+  background-color:#3b5998;
+  max-height: 100%;
+  max-width: 100%;
 }
 .social-icons a.github:hover
 {
-  background-color:#00aced
+  background-color:#00aced;
+  max-height: 100%;
+  max-width: 100%;
 }
 .social-icons a.linkedin:hover
 {
-  background-color:#007bb6
+  background-color:#007bb6;
+  max-height: 100%;
+  max-width: 100%;
 }
 .social-icons a.youtube:hover
 {
-  background-color:#ea4c89
+  background-color:#ea4c89;
+  max-height: 100%;
+  max-width: 100%;
 }
 @media (max-width:767px)
 {
