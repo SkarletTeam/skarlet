@@ -238,5 +238,56 @@ img {
     max-width: 100%;
 }
 
+/* Carousel background white */
+.carousel-inner {
+  background-color: #ffffff; /* White background */
+}
+
+/* Indicators - grey when inactive, black when active */
+.carousel-indicators li {
+  background-color: #cccccc; /* Grey when inactive */
+}
+
+.carousel-indicators .active {
+  background-color: #000000; /* Black when active */
+}
+
+/* Control arrows - grey when not active, black when active, no background */
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-image: none; /* Remove default background */
+  border: 2px solid transparent; /* No border */
+  width: 50px;
+  height: 50px;
+}
+
+/* Use pseudo-elements for custom arrow styles */
+.carousel-control-prev-icon::before,
+.carousel-control-next-icon::before {
+  content: ''; /* Add content for arrows */
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: grey;
+  transform: rotate(-45deg); /* Grey color for inactive */
+}
+
+.carousel-control-prev-icon::before {
+  border-width: 0 0 2px 2px;
+  transform: rotate(45deg); /* Create the left arrow */
+}
+
+.carousel-control-next-icon::before {
+  border-width: 0 2px 2px 0;
+}
+
+/* Change color to black on hover or active */
+.carousel-control-prev:hover .carousel-control-prev-icon::before,
+.carousel-control-next:hover .carousel-control-next-icon::before {
+  border-color: black; /* Black on hover */
+}
+
 </style>
 
