@@ -17,7 +17,6 @@ title: Contact Us!
 					<div class="card-body">
 						<h3 class="card-title">Contact Us</h3>
 						<p class="card-text text-left">
-						<p>We’d love to hear from you! Whether you have questions, feedback, or want to explore partnership opportunities, feel free to reach out.</p>
 						<strong>Phone:</strong> <a href="tel:+13523898590"> +1 (352) 389-8590</a><br>
 						<strong>Email:</strong> <a href="mailto:info@skarlet.org">info@skarlet.org</a><br>
 						<strong>Address:</strong> PO Box 3, 151 SW CEDAR ST, CROSS CITY, FL 32628-2105
@@ -33,8 +32,7 @@ title: Contact Us!
     <!-- Contact Information Section -->
 				<div class="col-md-8">
 					<div class="card-body">
-						<!-- Image Section -->
-						
+						<p>We’d love to hear from you! Whether you have questions, feedback, or want to explore partnership opportunities, feel free to reach out.</p>
 					</div>
 				</div>
 			</div>
