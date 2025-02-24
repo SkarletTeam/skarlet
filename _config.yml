@@ -28,7 +28,8 @@ plugins:
   - jekyll-seo-tag
 
 # Pagination
-# paginate: 50 # Number of posts per page (optional if you're using pagination)
+paginate: 50 # Number of posts per page (optional if you're using pagination)
+paginate_path: "/blog/page:num/"
 
 # Exclude files or directories from processing
 exclude:
