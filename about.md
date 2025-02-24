@@ -44,22 +44,22 @@ title: About Us!
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-10" src="./img/ISC2 SSCP.png" alt="ISC2 SSCP">
+      <img class="d-block w-10" src="/img/ISC2 SSCP.png" alt="ISC2 SSCP">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-10" src="./img/CySA+ce certified logo.png" alt="CompTIA CySA+ ce">
+      <img class="d-block w-10" src="/img/CySA+ce certified logo.png" alt="CompTIA CySA+ ce">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-10" src="./img/SecurityPlus Logo Certified CE.png" alt="CompTIA Security+">
+      <img class="d-block w-10" src="/img/SecurityPlus Logo Certified CE.png" alt="CompTIA Security+">
     </div>
 	<div class="carousel-item">
-      <img class="d-block w-10" src="./img/NetworkPlus Logo Certified CE.png" alt="CompTIA Network+">
+      <img class="d-block w-10" src="/img/NetworkPlus Logo Certified CE.png" alt="CompTIA Network+">
     </div>
 	<div class="carousel-item">
-      <img class="d-block w-10" src="./img/Aplus Logo Certified CE.png" alt="CompTIA A+">
+      <img class="d-block w-10" src="/img/Aplus Logo Certified CE.png" alt="CompTIA A+">
     </div>
 	<div class="carousel-item">
-      <img class="d-block w-10" src="./img/ProjectPlus Logo Certified.png" alt="CompTIA Project+">
+      <img class="d-block w-10" src="/img/ProjectPlus Logo Certified.png" alt="CompTIA Project+">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselIndicators" role="button" data-slide="prev">
