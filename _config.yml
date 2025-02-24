@@ -2,7 +2,7 @@
 title: Skarlet Corp. 
 description: IT and Security Services.
 baseurl: "" # The subpath of your site, e.g., /blog or leave empty ""
-url: "https://github.com/SkarletTeam/skarlet" # The base URL of your site
+url: "https://github.com/SkarletTeam/skarlet/" # The base URL of your site
 
 # Author details
 author:
@@ -11,7 +11,7 @@ author:
 
 # Build settings
 markdown: kramdown # Set the Markdown engine (kramdown is default in Jekyll)
-# theme: # Built-in themes for GitHub Pages, can be changed
+theme: jekyll-theme-minimal # Built-in themes for GitHub Pages, can be changed
 permalink: pretty # Pretty permalinks for clean URLs
 
 # Defaults for layouts
