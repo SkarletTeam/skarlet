@@ -2,7 +2,7 @@
 title: Skarlet Corp. 
 description: IT and Security Services.
 baseurl: "" # The subpath of your site, e.g., /blog or leave empty ""
-url: "https://username.github.io" # The base URL of your site
+url: "https://github.com/SkarletTeam/skarlet" # The base URL of your site
 
 # Author details
 author:
