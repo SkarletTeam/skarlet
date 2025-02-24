@@ -3,7 +3,6 @@ layout: default
 title: Contact Us!
 ---
 
-
 <div class="jumbotron jumbotron-fluid">
   <div class="container">
 
