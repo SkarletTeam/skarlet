@@ -5,6 +5,13 @@ title: FAQ!
 
 ---
 
+
+
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+	<div class="container" style="text-align: left;">
+ 
+<section>
 ### **1. What exactly does an MSP do?**
 **Answer:**  
 An MSP (Managed Service Provider) offers proactive IT support and management of your technology infrastructure, including servers, networks, security, and more. We monitor, maintain, and optimize your systems to ensure everything runs smoothly while preventing issues before they cause major disruptions. Additionally, we provide services like data backup, cybersecurity, compliance assistance, and help desk support.
@@ -116,3 +123,12 @@ We offer **24/7 monitoring**, remote support, and on-site for critical systems i
 Absolutely! Our services are scalable and flexible, meaning we can grow alongside your business. Whether you’re adding new employees, expanding locations, or upgrading systems, we can adjust your IT infrastructure and support plan to match your growth.
 
 ---
+</section>
+
+
+</div>
+</div>
+</div>
+
+
+
