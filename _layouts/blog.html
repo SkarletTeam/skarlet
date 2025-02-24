@@ -17,6 +17,10 @@
 {% include nav.html %}
 </nav>
 <main>
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+	<div class="container" style="text-align: left;">
+		<section>
         <ul>
             {% for post in site.posts %}
               <li>
@@ -27,6 +31,10 @@
               </li>
             {% endfor %}
         </ul>
+			</section>
+		</div>
+	</div>
+</div>
 </main>
 {% include privacy.html %}
 {% include footer.html %}
