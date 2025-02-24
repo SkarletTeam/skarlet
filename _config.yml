@@ -1,0 +1,47 @@
+# Site settings
+title: Skarlet Corp. 
+description: IT and Security Services.
+baseurl: "" # The subpath of your site, e.g., /blog or leave empty ""
+url: "https://username.github.io" # The base URL of your site
+
+# Author details
+author:
+  name: "J. Milford"
+  email: "info@skarlet.org"
+
+# Build settings
+markdown: kramdown # Set the Markdown engine (kramdown is default in Jekyll)
+# theme: # Built-in themes for GitHub Pages, can be changed
+permalink: pretty # Pretty permalinks for clean URLs
+
+# Defaults for layouts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Enable plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Pagination
+# paginate: 50 # Number of posts per page (optional if you're using pagination)
+
+# Exclude files or directories from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+
+# Include specific files for processing (if needed)
+include:
+  - _pages
+  - _posts
+
+# Additional configuration (optional)
+future: false # Whether to publish posts with future dates
+markdown_ext: "markdown,mkdown,mkdn,mkd,md" # Recognized Markdown file extensions
