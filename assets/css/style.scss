@@ -3,7 +3,6 @@
 
 @import "{{ site.theme }}";
 
-<style>
 #mc_embed_signup {
 	background:#fff; 
 	clear:left; 
@@ -258,8 +257,7 @@ img {
 }
 
 /* Control arrows - grey when not active, black when active, no background */
-.carousel-control-prev-icon,
-.carousel-control-next-icon {
+.carousel-control-prev-icon, .carousel-control-next-icon {
   background-image: none; /* Remove default background */
   border: 2px solid transparent; /* No border */
   width: 50px;
@@ -267,8 +265,7 @@ img {
 }
 
 /* Use pseudo-elements for custom arrow styles */
-.carousel-control-prev-icon::before,
-.carousel-control-next-icon::before {
+.carousel-control-prev-icon::before, .carousel-control-next-icon::before {
   content: ''; /* Add content for arrows */
   display: inline-block;
   width: 20px;
@@ -289,10 +286,7 @@ img {
 }
 
 /* Change color to black on hover or active */
-.carousel-control-prev:hover .carousel-control-prev-icon::before,
-.carousel-control-next:hover .carousel-control-next-icon::before {
+.carousel-control-prev:hover .carousel-control-prev-icon::before, .carousel-control-next:hover .carousel-control-next-icon::before {
   border-color: black; /* Black on hover */
 }
-
-</style>
 
