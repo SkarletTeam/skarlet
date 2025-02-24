@@ -3,6 +3,7 @@ layout: default
 title: Contact Us!
 ---
 
+
 <div class="jumbotron jumbotron-fluid">
   <div class="container">
 
@@ -57,5 +58,5 @@ title: Contact Us!
 </div>  
 
 
-<iframe src='https://outlook.office365.com/book/BookWithSkarletCorpforaFreeconsultation@skarlet.org/' width='100%' h-100 scrolling='no' style='border:0'></iframe>
+<iframe src='https://outlook.office365.com/book/BookWithSkarletCorpforaFreeconsultation@skarlet.org/' width='100%' height='2600' scrolling='no' style='border:0'></iframe>
 
