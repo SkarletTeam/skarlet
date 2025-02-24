@@ -2,7 +2,7 @@
 layout: default
 title: Skarlet Corp. IT and Security Services.
 ---
-
+<center>
 <div class="jumbotron jumbotron-fluid">
 	<div class="container">
 		<div class="media">
@@ -62,3 +62,4 @@ title: Skarlet Corp. IT and Security Services.
 	  </a>
 	</div>
 </div>
+</center>

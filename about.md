@@ -2,7 +2,6 @@
 layout: default
 title: About Us!
 ---
-
 <center>
 <div class="jumbotron jumbotron-fluid">
   <div class="container" style="text-align: left;">
@@ -73,6 +72,4 @@ title: About Us!
   </a>
 </div>
 </div>
-
-
 </center>
