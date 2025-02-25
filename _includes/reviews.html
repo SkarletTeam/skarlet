@@ -1,16 +1,9 @@
 <div class="container">
-  <h1 class="mb-4">Customer Reviews</h1>
-  
-  <div id="reviewsCarousel" class="carousel slide" data-bs-ride="carousel">
-	<!-- Indicators/Dots (optional) -->
-	<ol class="carousel-indicators">
-	  {% for review in site.reviews %}
-		<li data-bs-target="#reviewsCarousel" data-bs-slide-to="{{ forloop.index0 }}" class="{% if forloop.first %}active{% endif %}"></li>
-	  {% endfor %}
-	</ol>
+   <div id="reviewsCarousel" class="carousel slide" data-bs-ride="carousel">
 
 	<!-- Carousel Inner/Items -->
 	<div class="carousel-inner">
+	<h1 class="mb-4">Customer Reviews</h1>
 	  {% for review in site.reviews %}
 		<div class="carousel-item {% if forloop.first %}active{% endif %}">
 		  <div class="card">
@@ -38,15 +31,6 @@
 	  {% endfor %}
 	</div>
 
-	<!-- Carousel Controls (optional) -->
-	<a class="carousel-control-prev" href="#reviewsCarousel" role="button" data-bs-slide="prev">
-	  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-	  <span class="visually-hidden">Previous</span>
-	</a>
-	<a class="carousel-control-next" href="#reviewsCarousel" role="button" data-bs-slide="next">
-	  <span class="carousel-control-next-icon" aria-hidden="true"></span>
-	  <span class="visually-hidden">Next</span>
-	</a>
   </div>
 </div>
 
