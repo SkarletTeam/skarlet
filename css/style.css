@@ -296,11 +296,11 @@ img {
 }
 
 .stars .fa-star {
-  color: lightgray; /* Default color for empty stars */
+  color: lightgray; /* Empty stars */
 }
 
 .stars .checked {
-  color: gold; /* Color for filled stars */
+  color: gold; /* Filled stars */
 }
 
 </style>

@@ -286,3 +286,14 @@ img {
   border-color: black; /* Black on hover */
 }
 
+.checked {
+  color: gold;
+}
+
+.stars .fa-star {
+  color: lightgray; /* Empty stars */
+}
+
+.stars .checked {
+  color: gold; /* Filled stars */
+}
