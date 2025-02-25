@@ -45,9 +45,11 @@ title: Contact Us!
 </center>
 </div>
 <center>
-	<div class="embed-responsive embed-responsive-4by3" style="width: 420px; height: 315px;">
+	<!-- <div class="embed-responsive embed-responsive-4by3" style="width: 420px; height: 315px;">
 		<iframe class="embed-responsive-item" src="/img/skarletcorp2.mp4?autoplay=1" title="Skarlet Corp" allow="autoplay"></iframe>
-	</div>
+	</div> -->
+	<!-- Include Reviews Section -->
+{% include reviews.html %}
 </center>
 <!-- Bootstrap JS & CSS (Include these links for Bootstrap functionality) -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -58,6 +60,5 @@ title: Contact Us!
 
 <iframe src='https://outlook.office365.com/book/BookWithSkarletCorpforaFreeconsultation@skarlet.org/' width='100%' height='2600' scrolling='no' style='border:0'></iframe>
 
-<!-- Include Reviews Section -->
-{% include reviews.html %}
+
 
