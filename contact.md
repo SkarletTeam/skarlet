@@ -38,11 +38,6 @@ title: Contact Us!
 			</div>
 		</div>
 	</div>
-	<center>
-	<br><br>
-
-	<br><br>
-</center>
 </div>
 <center>
 	<!-- <div class="embed-responsive embed-responsive-4by3" style="width: 420px; height: 315px;">
