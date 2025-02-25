@@ -290,5 +290,18 @@ img {
               purple);
   margin: 20px 0;
 }
+
+.checked {
+  color: gold;
+}
+
+.stars .fa-star {
+  color: lightgray; /* Default color for empty stars */
+}
+
+.stars .checked {
+  color: gold; /* Color for filled stars */
+}
+
 </style>
 

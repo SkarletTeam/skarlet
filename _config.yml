@@ -42,6 +42,10 @@ exclude:
 include:
   - _pages
   - _posts
+  
+collections:
+  reviews:
+    output: true
 
 # Additional configuration (optional)
 future: false; # Whether to publish posts with future dates
