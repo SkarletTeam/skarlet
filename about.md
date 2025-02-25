@@ -72,6 +72,4 @@ title: About Us!
   </a>
 </div>
 </div>
-<!-- Include Reviews Section -->
-{% include reviews.html %}
 </center>
