@@ -9,33 +9,88 @@
 
 <url>
   <loc>https://skarlet.org/</loc>
-  <lastmod>2025-02-19T08:57:32+00:00</lastmod>
+  <lastmod>2025-02-25T01:10:17+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://skarlet.org/index.html</loc>
-  <lastmod>2025-02-19T08:57:32+00:00</lastmod>
+  <lastmod>2025-02-25T01:10:17+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://skarlet.org/resources.html</loc>
-  <lastmod>2025-02-19T08:57:32+00:00</lastmod>
+  <loc>https://skarlet.org/index</loc>
+  <lastmod>2025-02-25T01:10:17+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://skarlet.org/about.html</loc>
-  <lastmod>2025-02-19T08:57:32+00:00</lastmod>
+  <loc>https://skarlet.org/resources/</loc>
+  <lastmod>2025-02-25T01:10:17+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://skarlet.org/contact.html</loc>
-  <lastmod>2025-02-19T08:57:32+00:00</lastmod>
+  <loc>https://skarlet.org/blog/</loc>
+  <lastmod>2025-02-25T01:10:17+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://skarlet.org/freeform.html</loc>
-  <lastmod>2025-02-19T08:57:32+00:00</lastmod>
+  <loc>https://skarlet.org/faq/</loc>
+  <lastmod>2025-02-25T01:10:17+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://skarlet.org/contact/</loc>
+  <lastmod>2025-02-25T01:10:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://skarlet.org/about/</loc>
+  <lastmod>2025-02-25T01:10:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://skarlet.org/freeform/</loc>
+  <lastmod>2025-02-25T01:10:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://skarlet.org/resources/index.html</loc>
+  <lastmod>2025-02-25T01:10:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://skarlet.org/blog/index.html</loc>
+  <lastmod>2025-02-25T01:10:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://skarlet.org/updates/2025/02/24/welcome-to-our-blog/</loc>
+  <lastmod>2025-02-25T01:10:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://skarlet.org/faq/index.html</loc>
+  <lastmod>2025-02-25T01:10:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://skarlet.org/contact/index.html</loc>
+  <lastmod>2025-02-25T01:10:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://skarlet.org/about/index.html</loc>
+  <lastmod>2025-02-25T01:10:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://skarlet.org/freeform/index.html</loc>
+  <lastmod>2025-02-25T01:10:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://skarlet.org/updates/2025/02/24/welcome-to-our-blog/index.html</loc>
+  <lastmod>2025-02-25T01:10:17+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
 
 
