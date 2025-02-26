@@ -27,9 +27,18 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Pagination
-paginate: 50 # Number of posts per page (optional if you're using pagination)
+# Pagination for posts
+paginate: 5
 paginate_path: "/blog/page:num/"
+
+# Pagination for documentation
+documentation_paginate: 5
+documentation_paginate_path: "/documentation/page:num/"
+
+collections:
+  documentation:
+    output: true
+    permalink: /documentation/:path/
 
 # Exclude files or directories from processing
 exclude:
@@ -42,16 +51,11 @@ exclude:
 include:
   - _pages
   - _posts
+  - _documentation
   
 collections:
   reviews:
     output: true
-    
-collections:
-  documentation:
-    output: true
-    permalink: /documentation/
-
 
 # Additional configuration (optional)
 future: false; # Whether to publish posts with future dates

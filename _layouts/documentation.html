@@ -21,37 +21,50 @@
   <div class="container">
 	<div class="container" style="text-align: left;">
 		<section>
----
-layout: default
-title: Documentation
----
-
 <div class="container-fluid">
   <div class="row">
     <!-- Left-side navigation -->
     <div class="col-md-3">
       <nav id="doc-nav" class="navbar navbar-light bg-light">
         <ul class="navbar-nav">
-          {% for doc in site.documentation %}
+          {% for doc in paginator.docs %}
             <li class="nav-item">
-              <a class="nav-link" href="#" data-url="{{ doc.url }}">{{ doc.title }}</a>
+              <a class="nav-link" href="#doc-{{ doc.slug }}">{{ doc.title }}</a>
             </li>
           {% endfor %}
         </ul>
       </nav>
     </div>
 
-    <!-- Main Content area -->
+    <!-- Main Content area with document cards -->
     <div class="col-md-9">
       <!-- Top section (blank for now) -->
       <div class="top-section">
         <p>Top section placeholder</p>
       </div>
 
-      <!-- Middle content section -->
-      <div id="document-content" class="document-content mt-4">
-        <h2>Welcome to the Documentation</h2>
-        <p>Select a document from the left to view its content.</p>
+      <!-- Document cards -->
+      <div id="document-cards" class="document-content mt-4">
+        {% for doc in paginator.docs %}
+          <div id="doc-{{ doc.slug }}" class="card mb-4">
+            <div class="card-header">
+              <h2>{{ doc.title }}</h2>
+            </div>
+            <div class="card-body">
+              {{ doc.content | markdownify }}
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+
+      <!-- Pagination controls -->
+      <div class="pagination">
+        {% if paginator.previous_page %}
+          <a class="btn btn-primary" href="{{ paginator.previous_page_path }}">Previous</a>
+        {% endif %}
+        {% if paginator.next_page %}
+          <a class="btn btn-primary" href="{{ paginator.next_page_path }}">Next</a>
+        {% endif %}
       </div>
 
       <!-- Bottom section (blank for now) -->
@@ -63,27 +76,12 @@ title: Documentation
 </div>
 
 <script>
-  // Function to load document content
-  function loadDocumentContent(url) {
-    fetch(url)
-      .then(response => response.text())
-      .then(data => {
-        const parser = new DOMParser();
-        const htmlDocument = parser.parseFromString(data, "text/html");
-        const articleContent = htmlDocument.querySelector('.post-content'); // Assuming you have a class in your document layout
-        document.getElementById('document-content').innerHTML = articleContent.innerHTML;
-      })
-      .catch(error => {
-        document.getElementById('document-content').innerHTML = '<p>Error loading document content.</p>';
-      });
-  }
-
-  // Add event listener to each nav link
+  // Smooth scroll to document card when clicking nav link
   document.querySelectorAll('#doc-nav .nav-link').forEach(link => {
     link.addEventListener('click', function (e) {
       e.preventDefault();
-      const url = this.getAttribute('data-url');
-      loadDocumentContent(url);
+      const docId = this.getAttribute('href');
+      document.querySelector(docId).scrollIntoView({ behavior: 'smooth' });
     });
   });
 </script>
