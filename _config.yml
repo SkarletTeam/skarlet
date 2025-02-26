@@ -50,7 +50,7 @@ collections:
 collections:
   documentation:
     output: true
-    permalink: /documentation/:path/
+    permalink: /documentation/
 
 
 # Additional configuration (optional)
