@@ -1,0 +1,40 @@
+---
+layout: default
+title: Documentation
+---
+
+<div class="container-fluid">
+  <!-- Documentation page layout -->
+  <div class="row">
+    <!-- Left-side navigation -->
+    <div class="col-md-3">
+      <nav id="doc-nav" class="navbar navbar-light bg-light">
+        <ul class="navbar-nav">
+          {% for doc in site.documentation %}
+            <li class="nav-item">
+              <a class="nav-link" href="{{ doc.url }}">{{ doc.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </div>
+
+    <!-- Main Content area -->
+    <div class="col-md-9">
+      <!-- Top section (blank for now) -->
+      <div class="top-section">
+        <p>Top section placeholder</p>
+      </div>
+
+      <!-- Middle content section -->
+      <div class="document-content mt-4">
+        {{ content }}
+      </div>
+
+      <!-- Bottom section (blank for now) -->
+      <div class="bottom-section">
+        <p>Bottom section placeholder</p>
+      </div>
+    </div>
+  </div>
+</div>

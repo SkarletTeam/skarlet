@@ -46,6 +46,12 @@ include:
 collections:
   reviews:
     output: true
+    
+collections:
+  documentation:
+    output: true
+    permalink: /documentation/:path/
+
 
 # Additional configuration (optional)
 future: false; # Whether to publish posts with future dates
