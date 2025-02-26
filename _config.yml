@@ -38,7 +38,7 @@ documentation_paginate_path: "/documentation/page:num/"
 collections:
   documentation:
     output: true
-    permalink: /documentation/:path/
+    permalink: /documentation
 
 # Exclude files or directories from processing
 exclude:
