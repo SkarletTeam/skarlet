@@ -30,7 +30,7 @@ title: About Us!
     <p>As a rural MSP, we are deeply committed to our community. We actively participate in local events and initiatives, and we strive to support other small businesses in our area. We believe that by working together, we can foster a thriving local economy and create opportunities for growth.</p>
 
     <h2>Get in Touch</h2>
-    <p>Whether you’re a small business owner looking for reliable IT support or an organization seeking to enhance your technology infrastructure, we are here to help. Contact us today to learn more about our services and how we can support your business. <a class="nav-link" href="./contact.html"> Contact Us Now! </a></p>
+    <p>Whether you’re a small business owner looking for reliable IT support or an organization seeking to enhance your technology infrastructure, we are here to help. Contact us today to learn more about our services and how we can support your business. <a class="nav-link" href="/contact"> Contact Us Now! </a></p>
   </div>
   <h1>Our Teams Certifications!</h1>
   <div id="carouselIndicators" class="carousel slide" data-ride="carousel">
