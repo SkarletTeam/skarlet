@@ -7,28 +7,71 @@
 }
 	
 a:link {
-  color: #f8f9fa;
+  color: red;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: #e9ecef; 
+  color: black;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: #adb5bd;
+  color: yellow;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
-  color: #ffcc00;
+  color: green;
   background-color: transparent;
   text-decoration: underline;
 }
+
+/* General styling for dark navbar */
+.navbar-dark .navbar-nav .nav-link {
+    color: #f8f9fa; /* Light text color for better contrast */
+}
+
+/* Hover state */
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #adb5bd; /* Lighter grey for hover state */
+}
+
+/* Active state */
+.navbar-dark .navbar-nav .nav-link.active {
+    color: #ffcc00; /* Yellow for active link */
+}
+
+/* Visited links */
+.navbar-dark .navbar-nav .nav-link:visited {
+    color: #e9ecef; /* Slightly darker light color for visited links */
+}
+
+/* Links in dark background */
+.bg-dark a {
+    color: #f8f9fa; /* Light color for links on dark background */
+}
+
+/* Hover and focus for links in dark background */
+.bg-dark a:hover, .bg-dark a:focus {
+    color: #adb5bd; /* Light grey for hover and focus states */
+    text-decoration: underline; /* Optional for better visibility */
+}
+
+/* Nav item background on hover */
+.navbar-dark .navbar-nav .nav-item:hover {
+    background-color: #495057; /* Dark grey background for hover effect */
+}
+
+/* Nav item active background */
+.navbar-dark .navbar-nav .nav-item.active {
+    background-color: #343a40; /* Darker shade for active nav items */
+}
+
+
 .md-block a {
     color: red !important;
 }
