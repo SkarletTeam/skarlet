@@ -2,7 +2,7 @@
 layout: default
 title: About Us!
 ---
-<meta name=Skarlet Corp. Dixie County, Florida, IT and Cyber Security Services, MSP Services>
+
 <center>
 <div class="jumbotron jumbotron-fluid">
   <div class="container" style="text-align: left;">
