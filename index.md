@@ -4,17 +4,6 @@ title: Skarlet Corp. IT and Security Services.
 ---
 <center>
 <div class="jumbotron jumbotron-fluid">
-	<div class="container">
-		<div class="media">
-			<img class="mr-3" src="./img/SkarletLogoLGR.png" width="120" height="120" alt="Generic placeholder image">
-			<div class="media-body" style="text-align: left;">
-				<h2 class="mt-0">Skarlet Corp.</h2>
-				<h5 class="mt-0">Cultivating Community Empowerment</h5>		
-			</div>
-		</div>
-	</div>
-	<br><br>
-
 	<div class="embed-responsive embed-responsive-4by3" style="width: 420px; height: 315px;">
 		<iframe class="embed-responsive-item" src="./img/skarletcorp.mp4?autoplay=1" title="Skarlet Corp" allow="autoplay"></iframe>
 	</div>
