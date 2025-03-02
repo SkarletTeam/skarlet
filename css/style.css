@@ -7,25 +7,25 @@
 }
 	
 a:link {
-  color: red;
+  color: #f8f9fa;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: black;
+  color: #e9ecef; 
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: yellow;
+  color: #adb5bd;
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
-  color: green;
+  color: #ffcc00;
   background-color: transparent;
   text-decoration: underline;
 }
