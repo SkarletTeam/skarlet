@@ -40,10 +40,6 @@ title: Contact Us!
 	</div>
 </div>
 <center>
-	<!-- <div class="embed-responsive embed-responsive-4by3" style="width: 420px; height: 315px;">
-		<iframe class="embed-responsive-item" src="/img/skarletcorp2.mp4?autoplay=1" title="Skarlet Corp" allow="autoplay"></iframe>
-	</div> -->
-	<!-- Include Reviews Section -->
 {% include reviews.html %}
 </center>
 </div>  
