@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="shortcut icon" href="../../img/favicon.ico" />
+    <title>USB Device Not Recognized - Skarlet Corp. Knowledge Base</title>
+    <link rel="stylesheet" href="../../css/theme.css" />
+    <link rel="stylesheet" href="../../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
+        <link href="../../css/extra.css" rel="stylesheet" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "USB Device Not Recognized";
+        var mkdocs_page_input_path = "user-guides\\usb_not_recognized.md";
+        var mkdocs_page_url = null;
+      </script>
+    
+    <!--[if lt IE 9]>
+      <script src="../../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+      <script>hljs.highlightAll();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href="../..">
+          <img src="../../img/SkarletLogoLGR.png" class="logo" alt="Logo"/>
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../..">Home</a>
+                </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Baseline Configs</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../baseline-configs/windows-baseline-config/">Windows Baselines</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../baseline-configs/MacOS-baseline-config/">MacOS Baselines</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Logging</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../logging/sysmon/">Sysmon</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Risk</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../risk/cisram/">CIS RAM</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../risk/nistsp80030/">NIST SP 800-30</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Policy Development</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../policy-development/policies/">Policies</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">Security Frameworks</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-frameworks/nist/">NIST</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../security-frameworks/cis/">CIS</a>
+                  </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../..">Skarlet Corp. Knowledge Base</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href="../.." class="icon icon-home" aria-label="Docs"></a></li>
+      <li class="breadcrumb-item active">USB Device Not Recognized</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h1 id="usb-device-not-recognized">USB Device Not Recognized</h1>
+<p><strong>Symptoms</strong>:</p>
+<ul>
+<li>USB device won’t show up on your computer.</li>
+<li>Error message: “USB device not recognized.”</li>
+</ul>
+<p><strong>How to Resolve</strong>:</p>
+<ol>
+<li><strong>Try different ports</strong>:</li>
+<li>Plug the USB device into another USB port to see if it’s a port-specific issue.</li>
+<li><strong>Check Device Manager</strong>:</li>
+<li>Right-click on the Start menu, select <strong>Device Manager</strong>.</li>
+<li>Expand <strong>Universal Serial Bus controllers</strong> and look for devices with a yellow exclamation mark.</li>
+<li>Right-click and select <strong>Uninstall</strong>, then restart your computer.</li>
+<li><strong>Update USB drivers</strong>:</li>
+<li>In <strong>Device Manager</strong>, right-click on USB drivers and select <strong>Update driver</strong>.</li>
+<li><strong>Disable USB Selective Suspend</strong>:</li>
+<li>Go to <strong>Control Panel</strong> &gt; <strong>Power Options</strong> &gt; <strong>Change plan settings</strong> &gt; <strong>Change advanced power settings</strong>.</li>
+<li>Under <strong>USB settings</strong>, disable <strong>USB selective suspend setting</strong>.</li>
+<li><strong>Test the USB device on another computer</strong>:</li>
+<li>If the USB device still isn’t recognized, try it on another computer to determine if it’s the device itself that’s faulty.</li>
+</ol>
+              
+            </div>
+          </div><footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+    
+  </span>
+</div>
+    <script src="../../js/jquery-3.6.0.min.js"></script>
+    <script>var base_url = "../..";</script>
+    <script src="../../js/theme_extra.js"></script>
+    <script src="../../js/theme.js"></script>
+      <script src="../../search/main.js"></script>
+    <script>
+        jQuery(function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        });
+    </script>
+
+</body>
+</html>

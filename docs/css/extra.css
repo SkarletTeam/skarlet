@@ -1,0 +1,47 @@
+/* Custom color for links and primary elements */
+a {
+    color: #8f2c17; /* Replace with your desired color */
+}
+
+/* Custom background color for the header */
+.wy-side-nav-search {
+    background-color: #781000; /* Replace with your desired color */
+}
+
+/* Change the background color for the page */
+.wy-nav-content {
+    background-color: #f0f0f0; /* Replace with your desired color */
+}
+
+/* Modify the color of the sidebar */
+.wy-nav-side {
+    background-color: #444444; /* Replace with your desired color */
+}
+
+/* Change text color */
+body {
+    color: #222222; /* Replace with your desired color */
+}
+
+/* Make the main content span full width */
+.wy-nav-content-wrap {
+    max-width: 100%;
+    width: 100%;
+}
+
+.wy-nav-content {
+    max-width: 75%;
+    margin: 0;
+    padding: 0 20px; /* Adjust padding as needed */
+}
+
+/* Force table cells to wrap content */
+table {
+    table-layout: fixed; /* Ensures even column widths */
+    width: 100%;
+}
+
+table td, table th {
+    word-wrap: break-word;
+    white-space: normal; /* Allow text to wrap */
+}
