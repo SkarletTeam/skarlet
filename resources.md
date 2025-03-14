@@ -27,16 +27,16 @@ title: Free Resources!
     <a href="" class="btn btn-primary">Soon...</a>
   </div>
 </div>
+</div>
+</div>
+</div>
+</div>
 <center>
 <br><br>
 <div class="embed-responsive embed-responsive-4by3" style="width: 420px; height: 315px;">
   <iframe class="embed-responsive-item" src="/img/skarletcorpfree1.mp4?autoplay=1" title="Skarlet Corp" allow="autoplay" allowfullscreen></iframe>
 </div>
 </center>
-</div>
-</div>
-</div>
-</div>
 </div>
 
 </center>
