@@ -2,6 +2,7 @@
 layout: default
 title: Email List Signup!
 ---
+<meta name="description" content="Sign up for Email list for Skarlet Corp. Managed IT and Cyber Security Services in Dixie County Florida">
 
 <div class="jumbotron jumbotron-fluid">
   <div class="container">
