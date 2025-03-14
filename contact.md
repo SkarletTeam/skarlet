@@ -10,7 +10,7 @@ title: Contact Us!
 
 <!-- Bootstrap Contact Card with Image -->
 	<div class="card-group" style="width: 1050; hight: 600">
-	<img src="/img/Skarlet Black And White Simple Personal Business Card.png" class="img-fluid w-100 h-100" alt="Contact Image">
+	<img src="/img/Skarlet Black And White Simple Personal Business Card.webp" class="img-fluid w-100 h-100" alt="Contact Image">
 		<div class="card" style="w-100; h-100">
 			<div class="row g-0">
 				<!-- Contact Information Section -->

@@ -12,7 +12,7 @@ title: Free Resources!
     <div class="col-md-6">
 <div class="card-group">
 <div class="card" style="width: 18rem;">
-<img class="card-img-top" src="/img/Download Icon.png"  width="250" height="250" alt="Card image cap">
+<img class="card-img-top" src="/img/Download Icon.webp"  width="250" height="250" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Small Business Security Check-list</h5>
     <p class="card-text">Are you meeting the baseline standards of security? Find out for yourself, download this checklist!</p>
@@ -20,7 +20,7 @@ title: Free Resources!
   </div>
 </div>
 <div class="card" style="width: 18rem;">
-<img class="card-img-top" src="/img/Download Icon.png" width="250" height="250" alt="Card image cap">
+<img class="card-img-top" src="/img/Download Icon.webp" width="250" height="250" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Coming Soon...</h5>
     <p class="card-text">We are working on more resources for you to download..stay tuned!!</p>
