@@ -6,18 +6,6 @@
 	width: 600px;
 }
 
-.footer-heading {
-  font-size: 0.75rem; /* Equivalent to h6 */
-  font-weight: bold;
-  line-height: 1.1;
-  margin-top: 1rem;
-  margin-bottom: 0.5rem;
-}
-
-.footer-heading:focus, .footer-heading:hover {
-  outline: 2px solid #000; /* Optional focus/hover effect for accessibility */
-}
-	
 a:link {
   color: red;
   background-color: transparent;
@@ -101,6 +89,20 @@ a:active {
             text-align: center; /* Center text horizontally */
             vertical-align: middle; /* Center text vertically */
         }
+.footer-heading {
+  color: #ffcc00; /* Yellow for strong contrast */
+  font-size: 16px; /* Equivalent to h6 */
+  text-transform: uppercase; /* Uppercase for headings */
+  margin-top: 5px;
+  letter-spacing: 2px; /* Spacing between letters */
+  font-weight: bold;
+  line-height: 1.1;
+}
+
+.footer-heading:focus, .footer-heading:hover {
+  outline: 2px solid #000; /* Optional focus/hover effect for accessibility */
+}
+
 
 .site-footer {
   background-color: #26272b; /* Dark background color */
