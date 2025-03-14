@@ -5,6 +5,18 @@
 	font:14px Helvetica,Arial,sans-serif; 
 	width: 600px;
 }
+
+.footer-heading {
+  font-size: 0.75rem; /* Equivalent to h6 */
+  font-weight: bold;
+  line-height: 1.1;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.footer-heading:focus, .footer-heading:hover {
+  outline: 2px solid #000; /* Optional focus/hover effect for accessibility */
+}
 	
 a:link {
   color: red;
