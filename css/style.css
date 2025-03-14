@@ -99,11 +99,6 @@ a:active {
   line-height: 1.1;
 }
 
-.footer-heading:focus, .footer-heading:hover {
-  outline: 2px solid #000; /* Optional focus/hover effect for accessibility */
-}
-
-
 .site-footer {
   background-color: #26272b; /* Dark background color */
   padding: 45px 0 20px;
@@ -119,14 +114,6 @@ a:active {
 
 .site-footer hr.small {
   margin: 20px 0;
-}
-
-.site-footer h6 {
-  color: #ffcc00; /* Yellow for headings for strong contrast */
-  font-size: 16px;
-  text-transform: uppercase;
-  margin-top: 5px;
-  letter-spacing: 2px;
 }
 
 .site-footer a {
