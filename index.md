@@ -26,16 +26,16 @@ title: Skarlet Corp. IT and Security Services.
 	</div>
 
 	<br><br>
-	<div id="carouselIndicators" class="carousel slide" data-ride="carousel">
+	<div id="carouselIndicators" class="carousel slide" data-bs-ride="carousel">
 	  <div class="carousel-inner">
 		<div class="carousel-item active">
-		  <img class="d-block w-50" src="/img/remote support 247365.webp" alt="24 7 365 Remote Support">
+		  <img class="d-block w-50" src="./img/remote support 247365.webp" alt="24 7 365 Remote Support">
 		</div>
 		<div class="carousel-item">
-		  <img class="d-block w-50" src="/img/Partner Program.webp" alt="Partner Programs">
+		  <img class="d-block w-50" src="./img/Partner Program.webp" alt="Partner Programs">
 		</div>
 		<div class="carousel-item">
-		  <img class="d-block w-50" src="/img/managed it and security.webp" alt="Managed IT & Security">
+		  <img class="d-block w-50" src="./img/managed it and security.webp" alt="Managed IT & Security">
 		</div>
 	  </div>
 	</div>
