@@ -4,10 +4,6 @@ title: Skarlet Corp. IT and Security Services.
 ---
 <center>
 <div class="jumbotron jumbotron-fluid">
-	<div class="embed-responsive embed-responsive-4by3" style="width: 420px; height: 315px;">
-		<iframe class="embed-responsive-item" src="./img/skarletcorp.mp4?autoplay=1" title="Skarlet Corp" allow="autoplay"></iframe>
-	</div>
-	<br><br>
 
 	<div class="container" style="text-align: left;">
  
@@ -21,6 +17,10 @@ title: Skarlet Corp. IT and Security Services.
 		<h2>Comprehensive Cybersecurity Suite to Protect Your Business</h2>
 		<p>To fully safeguard your business from cyber threats, we offer a complete <strong>Cybersecurity Suite</strong> featuring <strong>Antivirus protection</strong>, <strong>Password Management</strong>, <strong>Multi-Factor Authentication (MFA)</strong>, and <strong>Single Sign-On (SSO)</strong> to secure your data and user accounts. We also provide <strong>Security Awareness Training</strong> to educate your team on best practices for cybersecurity. Additional services such as <strong>Managed Detection and Response (MDR)</strong>, <strong>Dark Web Monitoring</strong>, and <strong>Vulnerability Scanning</strong> ensure that your business remains protected against evolving cyber risks. Our end-to-end cybersecurity solutions give you peace of mind, knowing your business is safeguarded against the latest <em>cyber threats</em>.</p>
 		</section>
+	</div>
+	<br><br>
+	<div class="embed-responsive embed-responsive-4by3" style="width: 420px; height: 315px;">
+		<iframe class="embed-responsive-item" src="./img/skarletcorp.mp4?autoplay=1" title="Skarlet Corp" allow="autoplay"></iframe>
 	</div>
 
 	<br><br>
