@@ -14,16 +14,6 @@ title: About Us!
     <h2>Our Story</h2>
     <p>As a small business ourselves, we understand the unique challenges that rural organizations face. Our founder, J. Milford, started Skarlet Corp. with a vision to bridge the technology gap for local businesses. With over 16 years of experience in the IT & Cyber Security industry, we recognized the need for dedicated IT support that is both accessible and tailored to the specific needs of our community.</p>
 
-    <h2>Our Services</h2>
-    <p>We offer a comprehensive range of managed IT services designed to meet the diverse needs of our clients, including:</p>
-    <ul>
-        <li><strong>Network Management:</strong> Ensuring your network is secure, reliable, and optimized for performance.</li>
-        <li><strong>Cybersecurity Solutions:</strong> Protecting your business from cyber threats with proactive security measures and monitoring.</li>
-        <li><strong>Cloud Services:</strong> Helping you leverage the power of the cloud for data storage, collaboration, and scalability.</li>
-        <li><strong>Data Backup and Recovery:</strong> Implementing robust backup solutions to safeguard your critical data and ensure business continuity.</li>
-        <li><strong>IT Support:</strong> Providing responsive and friendly support to resolve any technical issues you may encounter.</li>
-    </ul>
-
     <h2>Our Commitment</h2>
     <p>At Skarlet Corp., we believe in building lasting relationships with our clients. We take the time to understand your business goals and challenges, allowing us to deliver customized solutions that align with your needs. Our team is dedicated to providing exceptional customer service, and we pride ourselves on being just a phone call away whenever you need assistance.</p>
 
