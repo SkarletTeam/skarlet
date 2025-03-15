@@ -5,7 +5,7 @@ title: About Us!
 <meta name="description" content="Learn more about Skarlet Corp. Managed IT and Cyber Security Services in Dixie County Florida">
 
 <center>
-<div class="jumbotron jumbotron-fluid">
+
   <div class="container" style="text-align: left;">
     
     <h1>About Us</h1>
@@ -47,5 +47,5 @@ title: About Us!
     </div>
   </div>
 </div>
-</div>
+
 </center>

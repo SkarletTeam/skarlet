@@ -6,7 +6,7 @@ title: Free Resources!
 
 <center>
 
-<div class="jumbotron jumbotron-fluid">
+
 <div class="container">
   <div class="row justify-content-center">
     <div class="col-md-6">
@@ -37,6 +37,4 @@ title: Free Resources!
   <iframe class="embed-responsive-item" src="/img/skarletcorpfree1.mp4?autoplay=1" title="Skarlet Corp" allow="autoplay" allowfullscreen></iframe>
 </div>
 </center>
-</div>
-
 </center>
