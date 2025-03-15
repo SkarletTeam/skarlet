@@ -5,8 +5,8 @@ title: Skarlet Corp. IT and Security Services.
 
 <meta name="description" content="Skarlet Corp. Managed IT and Cyber Security Services in Dixie County Florida">
 <center>
-
-	<div class="container" style="text-align: left;">
+<br><br>
+<div class="container" style="text-align: left;">
  
 		<section>
 		<h2>Comprehensive IT and Cybersecurity Services for SMBs</h2>
@@ -37,6 +37,7 @@ title: Skarlet Corp. IT and Security Services.
 		  <img class="d-block w-50" src="./img/managed it and security.webp" alt="Managed IT & Security">
 		</div>
 	  </div>
-	</div>
+</div>
 
 </center>
+<br><br>

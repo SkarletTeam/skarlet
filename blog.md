@@ -3,7 +3,7 @@ layout: blog
 title: Security Blog!
 permalink: /blog/
 ---
-
+<br><br>
 {% for post in paginator.posts %}
   <!-- Same loop as before for displaying posts -->
 {% endfor %}
@@ -18,3 +18,4 @@ permalink: /blog/
     <a href="{{ paginator.next_page_path }}" class="next">Next</a>
   {% endif %}
 </div>
+<br><br>

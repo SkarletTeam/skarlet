@@ -3,7 +3,7 @@ layout: default
 title: FAQ!
 ---
 <meta name="description" content="Frequently asked Questions for Skarlet Corp. Managed IT and Cyber Security Services in Dixie County Florida">
-
+<br><br>
   <div class="container">
 	<div class="container" style="text-align: left;">
 		<section>
@@ -146,7 +146,7 @@ Absolutely! Our services are scalable and flexible, meaning we can grow alongsid
 			</section>
 		</div>
 	</div>
-
+<br><br>
 
 
 
