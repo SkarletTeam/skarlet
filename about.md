@@ -26,7 +26,7 @@ title: About Us!
   </div>
   <h1>Our Teams Certifications!</h1>
  
-      <img class="d-block" src="/img/certs.webp" alt="Certifications banner" width="1,190" height="156.5">
-
+      <img class="d-block w-10" src="/img/certs.webp" alt="Certifications banner" width="1,190" height="156.5">
+ 
 </center>
 <br><br>
