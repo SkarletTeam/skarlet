@@ -1,0 +1,251 @@
+---
+layout: default
+title: Acronyms
+---
+
+# Acronym List
+
+- 2FA - Two-Factor Authentication
+- ACID - Atomicity, Consistency, Isolation, Durability (database properties)
+- ACL - Access Control List
+- AD - Active Directory
+- AJAX - Asynchronous JavaScript and XML
+- API - Application Programming Interface
+- ARPU - Average Revenue Per User
+- ARR - Annual Recurring Revenue
+- BC - Business Continuity
+- BCDR - Business Continuity and Disaster Recovery
+- BCP - Business Continuity Plan
+- BDR - Backup and Disaster Recovery
+- BGP - Border Gateway Protocol
+- BI - Business Intelligence
+- BYOD - Bring Your Own Device
+- CAGR - Compound Annual Growth Rate
+- CAPEX - Capital Expenditure
+- CTO - Chief Technology Officer
+- CCPA - California Consumer Privacy Act
+- CDN - Content Delivery Network
+- CI/CD - Continuous Integration/Continuous Deployment
+- CIO - Chief Information Officer
+- CISC - Complex Instruction Set Computer
+- CLI - Command-Line Interface
+- CMDB - Configuration Management Database
+- COBOL - Common Business-Oriented Language
+- CoE - Center of Excellence
+- COGS - Cost of Goods Sold
+- CORS - Cross-Origin Resource Sharing
+- CPU - Central Processing Unit
+- CRM - Customer Relationship Management
+- CRUD - Create, Read, Update, Delete
+- CSAT - Customer Satisfaction
+- CSP - Cloud Service Provider
+- CSS - Cascading Style Sheets
+- CTA - Call To Action
+- EIGRP - Enhanced Interior Gateway Routing Protocol
+- DaaS – Data as a Service
+- DaaS - Desktop as a Service
+- DB - Database
+- DBMS - Database Management System
+- DDoS - Distributed Denial of Service
+- DHCP - Dynamic Host Configuration Protocol
+- DLP - Data Loss Prevention
+- DNS - Domain Name System
+- DOM - Document Object Model
+- DoS - Denial of Service (different from DDoS - Distributed Denial of Service mentioned earlier)
+- DPI - Deep Packet Inspection
+- DR - Disaster Recovery
+- DRBD - Distributed Replicated Block Device
+- DVR - Digital Video Recorder
+- EBITDA - Earnings Before Interest, Taxes, Depreciation, and Amortization
+- ECC - Error-Correcting Code (memory)
+- EFS - Encrypted File System
+- HTTP - Hypertext Transfer Protocol
+- EOL - End Of Life
+- EoS - End Of Support
+- ERP - Enterprise Resource Planning
+- EULA - End User License Agreement
+- FQDN - Fully Qualified Domain Name
+- FTP - File Transfer Protocol
+- GDPR - General Data Protection Regulation
+- GNU - GNU's Not Unix (another recursive acronym)
+- GPO - Group Policy Object
+- GPU - Graphics Processing Unit
+- GRE - Generic Routing Encapsulation
+- GUI - Graphical User Interface
+- HaaS – Hardware as a Service
+- HBA - Host Bus Adapter
+- HCI - Hyper-Converged Infrastructure
+- HDD - Hard Disk Drive
+- HIPAA - Health Insurance Portability and Accountability Act
+- HTML - HyperText Markup Language
+- ITIL - Information Technology Infrastructure Library
+- HTTP/2 - HTTP version 2
+- HTTPS - Hypertext Transfer Protocol Secure
+- IaaS – Information as a service
+- IaaS - Infrastructure as a Service
+- IAM - Identity and Access Management
+- ICMP - Internet Control Message Protocol
+- IDE - Integrated Development Environment
+- IDP - Identity Provider
+- IDS - Intrusion Detection System
+- IMAP - Internet Message Access Protocol
+- IoE - Internet of Everything
+- IOPS - Input/Output Operations Per Second
+- IoT - Internet of Things
+- IP - Internet Protocol
+- IPS - Intrusion Prevention System
+- ISCSI - Internet Small Computer Systems Interface
+- ISP - Internet Service Provider
+- IT - Information Technology
+- ITAR - International Traffic in Arms Regulations
+- MDM - Mobile Device Management
+- ITSM - Information Technology Service Management
+- JDK - Java Development Kit
+- JSON - JavaScript Object Notation
+- JVM - Java Virtual Machine
+- Kaseya - Name of a popular MSP software
+- KPI - Key Performance Indicator
+- KVM - Keyboard, Video, Mouse (often in context of switches or over IP solutions)
+- LACP - Link Aggregation Control Protocol
+- LAMP - Linux, Apache, MySQL, PHP
+- LAN - Local Area Network
+- LDAP - Lightweight Directory Access Protocol
+- LOB - Line of Business
+- LoE - Level of Effort
+- LTV - Lifetime Value
+- LUN - Logical Unit Number
+- MAC - Media Access Control (address)
+- MDF - Marketing Development Funds
+- MVP - Minimum Viable Product (also Most Valuable Player in other contexts)
+- MEAN - MongoDB, Express.js, AngularJS, Node.js (a tech stack)
+- MERN - MongoDB, Express.js, React, Node.js (a tech stack)
+- MFA - Multi-Factor Authentication
+- MIME - Multipurpose Internet Mail Extensions
+- MoM - Month-over-Month
+- MoU - Memorandum of Understanding
+- MPLS - Multiprotocol Label Switching
+- MQL - Marketing Qualified Lead
+- MRR - Monthly Recurring Revenue
+- MSP – Managed Service Provider
+- MSPV - Managed Service Provider Vendor
+- MSSP – Managed Service Solutions Provider
+- MTBF - Mean Time Between Failures
+- MTTR - Mean Time To Repair
+- MVC - Model-View-Controller
+- PAM - Pluggable Authentication Modules
+- NAS - Network Attached Storage
+- NAT - Network Address Translation
+- NFS - Network File System
+- NIC - Network Interface Card
+- NIST - National Institute of Standards and Technology
+- NOC - Network Operations Center
+- NoSQL - Not Only SQL (refers to databases designed for non-relational data)
+- NPS - Net Promoter Score
+- NTFS - New Technology File System
+- NTP - Network Time Protocol
+- OEM - Original Equipment Manufacturer
+- OPEX - Operating Expenditure
+- OS - Operating System
+- OSI - Open Systems Interconnection (often in context of OSI model)
+- P2P - Peer-to-Peer
+- PaaS - Platform as a Service
+- RISC - Reduced Instruction Set Computer
+- PCI - Peripheral Component Interconnect (or Payment Card Industry)
+- PHP - PHP: Hypertext Preprocessor (a recursive acronym)
+- POC - Proof of Concept
+- PoP - Point of Presence
+- POP - Post Office Protocol
+- PPTP - Point-to-Point Tunneling Protocol
+- PSA - Professional Services Automation
+- QA - Quality Assurance
+- RAID - Redundant Array of Independent Disks
+- RAM - Random Access Memory
+- RDBMS - Relational Database Management System
+- RDP - Remote Desktop Protocol
+- REST - Representational State Transfer
+- RFI - Request For Information
+- RFP - Request For Proposal
+- RFQ - Request For Quotation
+- RHEL - Red Hat Enterprise Linux
+- SFTP - Secure File Transfer Protocol
+- RMM - Remote Monitoring and Management
+- ROBO - Remote Office/Branch Office
+- ROI - Return on Investment
+- RPO - Recovery Point Objective
+- RTO - Recovery Time Objective
+- RTOS - Real-Time Operating System
+- RTP - Real-time Transport Protocol
+- RTSP - Real-Time Streaming Protocol
+- SaaS - Software as a Service
+- SAML - Security Assertion Markup Language
+- SAN - Storage Area Network
+- SASE - Secure Access Service Edge
+- SCCM - System Center Configuration Manager (Microsoft)
+- SCSI - Small Computer System Interface
+- SDN - Software Defined Networking
+- SD-WAN - Software-Defined Wide Area Network
+- SEIM - Security Information and Event Management
+- SERP - Search Engine Results Page
+- TCP - Transmission Control Prot
+- SIEM - Security Information and Event Management
+- SIP - Session Initiation Protocol
+- SLA - ServiceSSO - Single Sign-On
+- SVN - Subversion (a version control system)
+- SWIFT - Society for Worldwide Interbank Financial Telecommunication
+- SWOT - Strengths, Weaknesses, Opportunities, Threats (analysis)
+- TCP - Transmission Control Protocol
+- TFA - Two Factor Authentication (similar to 2FA)
+- TFTP - Trivial File Transfer Protocol
+- TLD - Top-Level Domain
+- TLS - Transport Layer Security
+- SSO - Single Sign-On
+- SVN - Subversion (a version control system)
+- SWIFT - Society for Worldwide Interbank Financial Telecommunication
+- SWOT - Strengths, Weaknesses, Opportunities, Threats (analysis)
+- VDR - Virtual Data Room
+- TFA - Two Factor Authentication (similar to 2FA)
+- TFTP - Trivial File Transfer Protocol
+- TLD - Top-Level Domain
+- TLS - Transport Layer Security
+- TOC - Total Cost of Ownership
+- TSP - Technology Service Provider
+- TTL - Time To Live (networking context)
+- UAT - User Acceptance Testing
+- UC - Unified Communications
+- UCaaS - Unified Communications as a Service
+- UDP - User Datagram Protocol
+- UEFI - Unified Extensible Firmware Interface
+- UEM - Unified Endpoint Management
+- URL - Uniform Resource Locator
+- UTF-8 - Unicode Transformation Format - 8 bits
+- UVP - Unique Value Proposition
+- UX - User Experience
+- VCIO – Virtual Chief Information Officer
+- VDI - Virtual Desktop Infrastructure
+- WSUS - Windows Server Update Services
+- VCIO – Virtual Chief Information Officer
+- VDI - Virtual Desktop Infrastructure
+- VDR - Virtual Data Room
+- VHDX - Hyper-V Virtual Hard Disk
+- VNC - Virtual Network Computing
+- VoD - Video on Demand
+- VOIP - Voice Over Internet Protocol
+- VPC - Virtual Private Cloud
+- VPN - Virtual Private Network
+- VPS - Virtual Private Server
+- VRRP - Virtual Router Redundancy Protocol
+- VSAN - Virtual Storage Area Network
+- WAN - Wide Area Network
+- WAP - Wireless Access Point
+- WEP - Wired Equivalent Privacy
+- WIFI - Wireless Fidelity
+- WPA - Wi-Fi Protected Access
+- WPF - Windows Presentation Foundation
+- XaaS - Anything as a Service (referring to SaaS, PaaS, IaaS, etc.)
+- XML - eXtensible Markup Language
+- XSS - Cross-Site Scripting
+- YAML - YAML Ain't Markup Language (a recursive acronym)
+- YoY - Year-over-Year
+- ZFS - Zettabyte File System (originally from Sun Microsystems)
+- ZIP - Zigzag Inline Package (common file format)
+- ZTNA - Zero Trust Network Access
