@@ -7,11 +7,11 @@ title: Acronyms
         table {
             margin: 0 auto;
             border-collapse: collapse;
-            width: 80%;
+            width: 50%;
         }
         th, td {
             border: 1px solid #ddd;
-            padding: 8px;
+            padding: 2px;
             text-align: left;
         }
         th {
