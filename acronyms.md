@@ -4,12 +4,6 @@ title: Acronyms
 ---
 
 <style>
-       body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 20px;
-            text-align: center;
-        }
         table {
             margin: 0 auto;
             border-collapse: collapse;
