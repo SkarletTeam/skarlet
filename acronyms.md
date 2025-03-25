@@ -2,7 +2,7 @@
 layout: default
 title: Acronyms
 ---
-
+<center>
 # Acronym List
 
 - 2FA - Two-Factor Authentication
@@ -249,3 +249,4 @@ title: Acronyms
 - ZFS - Zettabyte File System (originally from Sun Microsystems)
 - ZIP - Zigzag Inline Package (common file format)
 - ZTNA - Zero Trust Network Access
+</center>
