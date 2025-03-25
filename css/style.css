@@ -90,6 +90,18 @@ a:active {
   border-color: rgba(255, 255, 255, 0.15); /* Divider color */
 }
 
+.navbar-dark .dropdown-left {
+    padding: 20px;
+}
+.navbar-dark .dropdown-right {
+    padding: 20px;
+}
+.navbar-dark .vr {
+    border-left: 1px solid #ddd;
+    height: 100%;
+}
+
+
 
 .md-block a {
     color: red !important;
