@@ -71,6 +71,15 @@ a:active {
     background-color: #343a40; /* Darker shade for active nav items */
 }
 
+.navbar-dark .dropdown-menu {
+  background-color: #343a40; /* Dark background for dropdown */
+  border-color: rgba(0, 0, 0, 0.15); /* Border color to match */
+}
+
+.navbar-dark .dropdown-item {
+  color: rgba(255, 255, 255, 0.85); /* Dark-themed item color */
+}
+
 
 .md-block a {
     color: red !important;
