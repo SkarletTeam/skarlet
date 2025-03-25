@@ -25,27 +25,9 @@ title: About Us!
     <p>Whether you’re a small business owner looking for reliable IT support or an organization seeking to enhance your technology infrastructure, we are here to help. Contact us today to learn more about our services and how we can support your business. <a class="nav-link" href="/contact"> Contact Us Now! </a></p>
   </div>
   <h1>Our Teams Certifications!</h1>
-  <div id="carouselIndicators" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="d-block w-10" src="/img/ISC2 SSCP.webp" alt="ISC2 SSCP">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-10" src="/img/CySA+ce certified logo.webp" alt="CompTIA CySA+ ce">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-10" src="/img/SecurityPlus Logo Certified CE.webp" alt="CompTIA Security+">
-    </div>
-	<div class="carousel-item">
-      <img class="d-block w-10" src="/img/NetworkPlus Logo Certified CE.webp" alt="CompTIA Network+">
-    </div>
-	<div class="carousel-item">
-      <img class="d-block w-10" src="/img/Aplus Logo Certified CE.webp" alt="CompTIA A+">
-    </div>
-	<div class="carousel-item">
-      <img class="d-block w-10" src="/img/ProjectPlus Logo Certified.webp" alt="CompTIA Project+">
-    </div>
-  </div>
+ 
+      <img class="d-block w-10" src="/img/certs.webp" alt="Certifications banner">
+ 
 </div>
 
 </center>
