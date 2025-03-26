@@ -59,24 +59,28 @@ a:active {
 .bg-dark a {
     color: #f8f9fa; /* Light color for links on dark background */
 	text-decoration: none;
+	border-style: none;
 }
 
 /* Hover and focus for links in dark background */
 .bg-dark a:hover, .bg-dark a:focus {
     color: #adb5bd; /* Light grey for hover and focus states */
-    text-decoration: none; /* Optional for better visibility */
+    text-decoration: none; /* Optional for better visibility *
+	border-style: none;/
 }
 
 /* Nav item background on hover */
 .navbar-dark .navbar-nav .nav-item:hover {
     background-color: #495057; /* Dark grey background for hover effect */
 	text-decoration: none;
+	border-style: none;
 }
 
 /* Nav item active background */
 .navbar-dark .navbar-nav .nav-item.active {
     background-color: #343a40; /* Darker shade for active nav items */
 	text-decoration: none;
+	border-style: none;
 }
 
 .navbar-dark .dropdown-menu {
@@ -88,6 +92,7 @@ a:active {
 .navbar-dark .dropdown-item {
   color: rgba(255, 255, 255, 0.85); /* Dark-themed item color */
   text-decoration: none;
+  border-style: none;
 }
 
 .navbar-dark .dropdown-item:hover,
@@ -95,6 +100,7 @@ a:active {
   color: #fff; /* Hover color for dropdown items */
   background-color: rgba(255, 255, 255, 0.1); /* Slight background change on hover */
   text-decoration: none;
+  border-style: none;
 }
 
 .navbar-dark .dropdown-divider {
@@ -127,6 +133,7 @@ a:active {
 	color: #ffc107; /* Hover color */
 	text-decoration: none;
 	width: 100%;
+	border-style: none;
 }
 
 .navbar-dark .dropdown-menu-custom table, th, td {
@@ -140,7 +147,7 @@ a:active {
 .navbar-dark .dropdown-menu-custom button {
 	text-align:left;
 	width: 100%;
-	
+	border-style: none;
 }
 
 .md-block a {
