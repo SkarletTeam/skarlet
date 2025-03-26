@@ -6,7 +6,6 @@ title: Contact Us!
 <meta name="description" content="Contact Skarlet Corp. Managed IT and Cyber Security Services in Dixie County Florida">
 
 <br>
-
 <div class="container">
 <!-- Bootstrap Contact Card with Image -->
 	<div class="card-group" style="width: 525; hight: 300">
@@ -34,6 +33,5 @@ title: Contact Us!
 </center>
 <br>
 <iframe src='https://outlook.office365.com/book/BookWithSkarletCorpforaFreeconsultation@skarlet.org/' width='100%' height='2600' scrolling='no' style='border:0'></iframe>
-
 <br>
 

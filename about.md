@@ -10,7 +10,11 @@ title: About Us!
  
   <img class="d-block w-10" src="/img/certs.webp" alt="Certifications banner" width="595" height="79">
 <br>
-
+<br>
+<center>
+{% include reviews.html %}
+</center>
+<br>
 <div class="container" style="text-align: left;">
   
 <h2 id="-about-skarlet-corp-your-trusted-it-partner-"><strong>About Skarlet Corp: Your Trusted IT Partner</strong></h2>

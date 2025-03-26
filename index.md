@@ -58,4 +58,10 @@ title: Skarlet Corp. IT and Security Services.
 <p><strong>Contact us today</strong> to schedule your consultation and find out how Skarlet Corp can transform your business’s IT infrastructure. Let us handle the tech, so you can focus on growing your business with confidence.</p>
 </div>
 </center>
-<br><br>
+
+<br>
+<center>
+{% include reviews.html %}
+</center>
+<br>
+<br>
