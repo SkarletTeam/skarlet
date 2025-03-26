@@ -121,6 +121,17 @@ a:active {
 	border-color: rgba(0, 0, 0, 0.15); /* Border color to match */
     width: 600px; /* Custom width for the dropdown */
 	border-style: none;
+	padding: 0.5rem; /* Reduce dropdown padding */
+    margin-top: -5px; /* Bring dropdown menu closer to navbar */
+}
+
+.dropdown-menu-custom {
+  background-color: #343a40; /* Dark background for dropdown */
+  border-color: rgba(0, 0, 0, 0.15); /* Border color to match */
+  width: auto; /* Custom width for the dropdown */
+  border-style: none;	
+  padding: none; /* Reduce dropdown padding */
+  margin-top: -5px; /* Bring dropdown menu closer to navbar */
 }
 
 .navbar-dark .dropdown-menu-custom a {
@@ -139,12 +150,36 @@ a:active {
 	color: #fff; /* Text color inside the table */
 	text-align:left;
 	text-decoration: none;
+	padding: 0rem; /* Reduce padding inside buttons */
+	margin-bottom: none; /* Reduce space between buttons */
+	margin-top: none; /* Bring dropdown menu closer to navbar */
+	margin-left: none; /* Reduce space between buttons */
+	margin-right: none; /* Bring dropdown menu closer to navbar */
 	
 }
 .navbar-dark .dropdown-menu-custom button {
 	text-align:left;
 	width: 100%;
-	
+	margin-bottom: none; /* Reduce space between buttons */
+	margin-top: none; /* Bring dropdown menu closer to navbar */
+	margin-left: none; /* Reduce space between buttons */
+	margin-right: none; /* Bring dropdown menu closer to navbar */
+	padding: 0rem; /* Reduce padding inside buttons */
+}
+
+.btn-dark {
+	margin-bottom: none; /* Reduce space between buttons */
+	margin-top: none; /* Bring dropdown menu closer to navbar */
+	margin-left: none; /* Reduce space between buttons */
+	margin-right: none; /* Bring dropdown menu closer to navbar */
+}
+
+.navbar-dark .dropdown-menu a.nav-link {
+	padding: 0rem; /* Reduce padding inside buttons */
+	margin-bottom: none; /* Reduce space between buttons */
+	margin-top: none; /* Bring dropdown menu closer to navbar */
+	margin-left: none; /* Reduce space between buttons */
+	margin-right: none; /* Bring dropdown menu closer to navbar */
 }
 
 .md-block a {
