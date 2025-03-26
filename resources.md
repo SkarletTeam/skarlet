@@ -6,7 +6,7 @@ title: Free Resources!
 
 <center>
 
-<br><br>
+<br>
 <div class="container">
   <div class="row justify-content-center">
     <div class="col-md-6">
@@ -31,11 +31,4 @@ title: Free Resources!
 </div>
 </div>
 </div>
-<center>
-<br><br>
-<div class="embed-responsive embed-responsive-4by3" style="width: 420px; height: 315px;">
-  <iframe class="embed-responsive-item" src="/img/skarletcorpfree1.mp4?autoplay=1" title="Skarlet Corp" allow="autoplay" allowfullscreen></iframe>
-</div>
-</center>
-</center>
-<br><br>
+<br>
