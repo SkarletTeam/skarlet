@@ -1,3 +1,6 @@
 # Ignore all below
 GemFile
 GemFile.lock
+.jekyll-cache
+.sass-cache
+_site
