@@ -126,7 +126,7 @@ a:active {
 .navbar-dark .dropdown-menu-custom a:hover {
 	color: #ffc107; /* Hover color */
 	text-decoration: none;
-	width: 100%
+	width: 100%;
 }
 
 .navbar-dark .dropdown-menu-custom table, th, td {
@@ -139,7 +139,7 @@ a:active {
 }
 .navbar-dark .dropdown-menu-custom button {
 	text-align:left;
-	width: 100%
+	width: 100%;
 	
 }
 
