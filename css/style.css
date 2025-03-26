@@ -36,6 +36,7 @@ a:active {
 	text-decoration: none;
 }
 
+
 /* Hover state */
 .navbar-dark .navbar-nav .nav-link:hover {
     color: #adb5bd; /* Lighter grey for hover state */
