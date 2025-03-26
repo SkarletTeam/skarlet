@@ -46,12 +46,7 @@ title: Simplify Your Business IT - Stress-Free Managed IT Solutions
             <li><strong>Stress-Free Implementation:</strong> If you choose to move forward, we’ll take care of everything—from setting up your new systems to ongoing support—so you can focus on your business.</li>
         </ol>
         
-        <h3>Testimonials from Our Clients</h3>
-        <p>"Skarlet Corp has completely transformed our IT. Their proactive support and security have given us peace of mind, allowing us to focus on growing our business."  
-            <br>— <strong>John M., Local Business Owner</strong></p>
-        <p>"The free IT health check was eye-opening. Skarlet Corp pointed out several vulnerabilities we didn’t even know existed, and their solutions have made a huge difference."  
-            <br>— <strong>Sarah T., Retail Shop Owner</strong></p>
-        
+       
         <h3>Ready to Simplify Your IT?</h3>
         <p>Your business deserves an IT partner that makes technology easy. Let Skarlet Corp handle your IT needs so you can focus on what matters most—growing your business. Contact us today to get started with a free, no-obligation IT health check.</p>
     </div>
