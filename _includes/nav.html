@@ -10,61 +10,110 @@
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <ul class="navbar-nav me-auto">
 	  <li class="nav-item"> <a class="nav-link active" aria-current="page" href="/index"> Home </a> </li>
-      <li class="nav-item dropdown">
+	    <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
           Resouces
         </a>
-        <ul class="dropdown-menu">
-		  <li> <a class="dropdown-item" href="/resources"> Resources </a> </li>
-          <li> <a class="dropdown-item" href="/faq"> FAQ </a> </li>
-          <li> <a class="dropdown-item" href="/acronyms"> Acronyms </a> </li>
-          <!-- <li><hr class="dropdown-divider"></li> -->
-          <!-- <li><a class="dropdown-item" href="/blog"></a></li> -->
+        <ul class="dropdown-menu dropdown-menu-custom p-3" aria-labelledby="navbarDropdownTable">
+		<!-- Table inside the dropdown -->
+              <table class="table table-borderless" align="left" border="0">
+                  <tbody>
+                      <tr>
+
+                          <td>
+                              <!-- 5 rows, each with an industry -->
+                              <ul class="list-unstyled">
+                                  <li>
+									  <button type="button" class="btn btn-dark"><a class="nav-link" href="/resources">
+                                          <strong><span style='font-size:16px;'>&#129520;</span>Resouces</strong><br>
+                                          <p style='font-size:14px;'>Download Free Resouces</p>
+                                      </a></button>
+
+                                  </li>
+                                  <li>
+									  <button type="button" class="btn btn-dark"><a class="nav-link" href="/faq">
+                                          <strong><span style='font-size:16px;'>&#128161;</span>FAQ</strong><br>
+                                          <p style='font-size:14px;'>We have provided a FAQ to help answer some of your most asked Questions.</p>
+                                      </a></button>
+                                  </li>
+                                  <li>
+                                      <button type="button" class="btn btn-dark"><a class="nav-link" href="/acronyms">
+										  <strong><span style='font-size:16px;'>&#128292;</span>Manufacturing</strong><br>
+										  <p style='font-size:14px;'>Acronyms change in different industries so to make sure we speak the same language here is a list of IT and Security Acronyms.</p>
+                                      </a></button>
+                                  </li>
+								  <!-- <li><hr class="dropdown-divider"></li>
+                                  <li>
+                                      <button type="button" class="btn btn-dark"><a class="nav-link" href="/blog">
+                                          <strong><span style='font-size:16px;'>&#128110;</span>Blog</strong><br>
+                                          <p style='font-size:14px;'>This Blog is to help you stay up to date with latest Security News.</p>
+                                      </a></button>
+                                  </li> -->
+                              </ul>
+                          </td>
+                      </tr>
+                  </tbody>
+              </table>
         </ul>
       </li>
-      <!-- Dropdown Menu -->
+	        <!-- Dropdown Menu with Table -->
       <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownTable" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               Industries
           </a>
-          <ul class="dropdown-menu p-3" aria-labelledby="navbarDropdownMenuLink">
-              <div class="row">
-                  <!-- Left side (Text) -->
-                  <div class="col-4 dropdown-left">
-                      <p>This is the left side text for the dropdown.</p>
-                      <p>It can contain anything like a small description or additional info.</p>
-                  </div>
-                  
-                  <!-- Vertical Rule -->
-                  <div class="col-1 d-flex justify-content-center align-items-start">
-                      <div class="vr"></div>
-                  </div>
-                  
-                  <!-- Right side (Headers with descriptions) -->
-                  <div class="col-7 dropdown-right">
-                      <!-- First header and description -->
-                      <h6 class="dropdown-header">Small and Medium Businesses</h6>
-                      <p class="text-muted">We proactively partner with many small and medium businesses, not just being a break-fix vendor.</p>
-                      
-                      <!-- Second header and description -->
-                      <h6 class="dropdown-header">Municipalities</h6>
-                      <p class="text-muted">Municipalities turn to Skarlet Corp to help them get IT right.</p>
-                      
-                      <!-- Third header and description -->
-                      <h6 class="dropdown-header">Local Government Services</h6>
-                      <p class="text-muted">Police, fire, water/sewer, and other municipal departments turn to Skarlet Corp for specialized expertise in these areas.</p>
-                      
-                      <!-- Fourth header and description -->
-                      <h6 class="dropdown-header">Healthcare</h6>
-                      <p class="text-muted">Skarlet Corp has over 16 years of experience helping organizations AIM higher.</p>
-                      
-                      <!-- Fifth header and description -->
-                      <h6 class="dropdown-header">Agriculture</h6>
-                      <p class="text-muted">From farm to table, Skarlet Corp has experience helping agricultural organizations optimize their IT infrastructure and reap a bountiful harvest.</p>
-                  </div>
-              </div>
+          <ul class="dropdown-menu dropdown-menu-custom p-3" aria-labelledby="navbarDropdownTable">
+              <!-- Table inside the dropdown -->
+              <table class="table table-borderless" align="left" border="0">
+                  <tbody>
+                      <tr>
+
+                          <td>
+                              <!-- 5 rows, each with an industry -->
+                              <ul class="list-unstyled">
+                                  <li>
+									  <button type="button" class="btn btn-dark"><a class="nav-link" href="#">
+                                          <strong><span style='font-size:16px;'>&#127970;</span>Small and Medium Businesses</strong><br>
+                                          <p style='font-size:14px;'>We proactively partner with many small and medium businesses, not just being a break-fix vendor. </p>
+                                      </a></button>
+
+                                  </li>
+                                  <li>
+									  <button type="button" class="btn btn-dark"><a class="nav-link" href="#">
+                                          <strong><span style='font-size:16px;'>&#127972;</span>Municipalities</strong><br>
+                                          <p style='font-size:14px;'>Municipalities turn to Skarlet Corp to help them get IT right. </p>
+                                      </a></button>
+                                  </li>
+                                  <li>
+                                      <button type="button" class="btn btn-dark"><a class="nav-link" href="#">
+										  <strong><span style='font-size:16px;'>&#127981;</span>Manufacturing</strong><br>
+										  <p style='font-size:14px;'>Manufacturing businesses rely on Skarlet Corp to optimize IT systems and streamline production. </p>
+                                      </a></button>
+                                  </li>								  
+                                  <li>
+                                      <button type="button" class="btn btn-dark"><a class="nav-link" href="#">
+                                          <strong><span style='font-size:16px;'>&#128110;</span>Local Government Services</strong><br>
+                                          <p style='font-size:14px;'>Police, fire, water/sewer, and other municipal departments turn to Skarlet Corp for specialized expertise in these areas. </p>
+                                      </a></button>
+                                  </li>
+                                  <li>
+                                      <button type="button" class="btn btn-dark"><a class="nav-link" href="#">
+                                          <strong><span style='font-size:16px;'>&#127973;</span>Healthcare</strong><br>
+                                          <p style='font-size:14px;'>Skarlet Corp has over 16 years of experience helping organizations AIM higher. </p>
+                                      </a></button>
+                                  </li>
+                                  <li>
+                                      <button type="button" class="btn btn-dark"><a class="nav-link" href="#">
+                                          <strong><span style='font-size:16px;'>&#129365;</span>Agriculture</strong><br>
+                                          <p style='font-size:14px;'>From farm to table, Skarlet Corp has experience helping agricultural organizations optimize their IT infrastructure and reap a bountiful harvest. </p>
+                                      </a></button>
+                                  </li>
+                              </ul>
+                          </td>
+                      </tr>
+                  </tbody>
+              </table>
           </ul>
-      </li>	  
+      </li>
 	  <li class="nav-item"> <a class="nav-link" href="/contact"> Contact </a> </li>
       <li class="nav-item"> <a class="nav-link" href="/about"> About </a> </li>
 	 </ul>

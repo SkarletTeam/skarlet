@@ -33,57 +33,67 @@ a:active {
 /* General styling for dark navbar */
 .navbar-dark .navbar-nav .nav-link {
     color: #f8f9fa; /* Light text color for better contrast */
+	text-decoration: none;
 }
 
 /* Hover state */
 .navbar-dark .navbar-nav .nav-link:hover {
     color: #adb5bd; /* Lighter grey for hover state */
+	text-decoration: none;
 }
 
 /* Active state */
 .navbar-dark .navbar-nav .nav-link.active {
     color: #ffcc00; /* Yellow for active link */
+	text-decoration: none;
 }
 
 /* Visited links */
 .navbar-dark .navbar-nav .nav-link:visited {
     color: #e9ecef; /* Slightly darker light color for visited links */
+	text-decoration: none;
 }
 
 /* Links in dark background */
 .bg-dark a {
     color: #f8f9fa; /* Light color for links on dark background */
+	text-decoration: none;
 }
 
 /* Hover and focus for links in dark background */
 .bg-dark a:hover, .bg-dark a:focus {
     color: #adb5bd; /* Light grey for hover and focus states */
-    text-decoration: underline; /* Optional for better visibility */
+    text-decoration: none; /* Optional for better visibility */
 }
 
 /* Nav item background on hover */
 .navbar-dark .navbar-nav .nav-item:hover {
     background-color: #495057; /* Dark grey background for hover effect */
+	text-decoration: none;
 }
 
 /* Nav item active background */
 .navbar-dark .navbar-nav .nav-item.active {
     background-color: #343a40; /* Darker shade for active nav items */
+	text-decoration: none;
 }
 
 .navbar-dark .dropdown-menu {
   background-color: #343a40; /* Dark background for dropdown */
   border-color: rgba(0, 0, 0, 0.15); /* Border color to match */
+  text-decoration: none;
 }
 
 .navbar-dark .dropdown-item {
   color: rgba(255, 255, 255, 0.85); /* Dark-themed item color */
+  text-decoration: none;
 }
 
 .navbar-dark .dropdown-item:hover,
 .navbar-dark .dropdown-item:focus {
   color: #fff; /* Hover color for dropdown items */
   background-color: rgba(255, 255, 255, 0.1); /* Slight background change on hover */
+  text-decoration: none;
 }
 
 .navbar-dark .dropdown-divider {
@@ -101,7 +111,36 @@ a:active {
     height: 100%;
 }
 
+.navbar-dark .dropdown-menu-custom {
+	background-color: #343a40; /* Dark background for dropdown */
+	border-color: rgba(0, 0, 0, 0.15); /* Border color to match */
+    width: 600px; /* Custom width for the dropdown */
+	border-style: none
+}
 
+.navbar-dark .dropdown-menu-custom a {
+	color: #fff; /* Text color for links */
+}
+
+.navbar-dark .dropdown-menu-custom a:hover {
+	color: #ffc107; /* Hover color */
+	text-decoration: none;
+	width: 100%
+}
+
+.navbar-dark .dropdown-menu-custom table, th, td {
+	background-color: #343a40; /* Dark background for dropdown */
+	border-style: none;
+	color: #fff; /* Text color inside the table */
+	text-align:left;
+	text-decoration: none;
+	
+}
+.navbar-dark .dropdown-menu-custom button {
+	text-align:left;
+	width: 100%
+	
+}
 
 .md-block a {
     color: red !important;
