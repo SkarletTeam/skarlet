@@ -116,7 +116,7 @@ a:active {
 	background-color: #343a40; /* Dark background for dropdown */
 	border-color: rgba(0, 0, 0, 0.15); /* Border color to match */
     width: 600px; /* Custom width for the dropdown */
-	border-style: none
+	border-style: none;
 }
 
 .navbar-dark .dropdown-menu-custom a {
