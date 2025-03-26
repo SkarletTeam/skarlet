@@ -14,47 +14,43 @@
         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
           Resouces
         </a>
-        <ul class="dropdown-menu dropdown-menu-custom p-3" aria-labelledby="navbarDropdownTable">
-		<!-- Table inside the dropdown -->
-              <table class="table table-borderless" align="left" border="0">
-                  <tbody>
-                      <tr>
-
-                          <td>
-                              <!-- 5 rows, each with an industry -->
-                              <ul class="list-unstyled">
-                                  <li>
-									  <button type="button" class="btn btn-dark"><a class="nav-link" href="/resources">
-                                          <strong><span style='font-size:16px;'>&#129520;</span>Resouces</strong><br>
-                                          <p style='font-size:14px;'>Download Free Resouces</p>
-                                      </a></button>
-
-                                  </li>
-                                  <li>
-									  <button type="button" class="btn btn-dark"><a class="nav-link" href="/faq">
-                                          <strong><span style='font-size:16px;'>&#128161;</span>FAQ</strong><br>
-                                          <p style='font-size:14px;'>We have provided a FAQ to help answer some of your most asked Questions.</p>
-                                      </a></button>
-                                  </li>
-                                  <li>
-                                      <button type="button" class="btn btn-dark"><a class="nav-link" href="/acronyms">
-										  <strong><span style='font-size:16px;'>&#128292;</span>Manufacturing</strong><br>
-										  <p style='font-size:14px;'>Acronyms change in different industries so to make sure we speak the same language here is a list of IT and Security Acronyms.</p>
-                                      </a></button>
-                                  </li>
-								  <!-- <li><hr class="dropdown-divider"></li>
-                                  <li>
-                                      <button type="button" class="btn btn-dark"><a class="nav-link" href="/blog">
-                                          <strong><span style='font-size:16px;'>&#128110;</span>Blog</strong><br>
-                                          <p style='font-size:14px;'>This Blog is to help you stay up to date with latest Security News.</p>
-                                      </a></button>
-                                  </li> -->
-                              </ul>
-                          </td>
-                      </tr>
-                  </tbody>
-              </table>
-        </ul>
+			<ul class="dropdown-menu dropdown-menu-custom p-3" aria-labelledby="navbarDropdownTable">
+				<!-- Responsive table for mobile -->
+				<div class="container">
+					<div class="row">
+						<div class="col-12 col-md-12">
+							<!-- List of industries/buttons -->
+							<ul class="list-unstyled">
+								<li class="mb-3">
+									<button type="button" class="btn btn-dark w-100 text-start">
+										<a class="nav-link text-light" href="/resources">
+											<strong><span style="font-size:1.5rem;">&#129520;</span> Resources</strong><br>
+											<p style="font-size:1rem;">Download Free Resources</p>
+										</a>
+									</button>
+								</li>
+								<li class="mb-3">
+									<button type="button" class="btn btn-dark w-100 text-start">
+										<a class="nav-link text-light" href="/faq">
+											<strong><span style="font-size:1.5rem;">&#128161;</span> FAQ</strong><br>
+											<p style="font-size:1rem;">We have provided a FAQ to help answer some of your most asked Questions.</p>
+										</a>
+									</button>
+								</li>
+								<li class="mb-3">
+									<button type="button" class="btn btn-dark w-100 text-start">
+										<a class="nav-link text-light" href="/acronyms">
+											<strong><span style="font-size:1.5rem;">&#128292;</span> Manufacturing</strong><br>
+											<p style="font-size:1rem;">Acronyms change in different industries, so to make sure we speak the same language, here is a list of IT and Security Acronyms.</p>
+										</a>
+									</button>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</ul>
+			
       </li>
 	        <!-- Dropdown Menu with Table -->
       <li class="nav-item dropdown">
