@@ -123,6 +123,8 @@ a:active {
 	border-style: none;
 	padding: 0.5rem; /* Reduce dropdown padding */
     margin-top: -5px; /* Bring dropdown menu closer to navbar */
+	border-bottom-right-radius: 15px; /* Adjust the radius as needed */
+	border-bottom-left-radius: 15px; /* Adjust the radius as needed */
 }
 
 .dropdown-menu-custom {
@@ -132,6 +134,8 @@ a:active {
   border-style: none;	
   padding: none; /* Reduce dropdown padding */
   margin-top: -5px; /* Bring dropdown menu closer to navbar */
+  border-bottom-right-radius: 15px; /* Adjust the radius as needed */
+  border-bottom-left-radius: 15px; /* Adjust the radius as needed */
 }
 
 .navbar-dark .dropdown-menu-custom a {

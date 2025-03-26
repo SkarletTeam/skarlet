@@ -13,9 +13,12 @@ title: Acronyms
             border: 1px solid #ddd;
             padding: 2px;
             text-align: left;
+			background-color: #f4f4f4;
+			color: black;
         }
         th {
-            background-color: #f4f4f4;
+            background-color: lightgrey;
+			color: black;
         }		
 </style>
 
