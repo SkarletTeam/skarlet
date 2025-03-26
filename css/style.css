@@ -59,21 +59,19 @@ a:active {
 .bg-dark a {
     color: #f8f9fa; /* Light color for links on dark background */
 	text-decoration: none;
-	border-style: none;
 }
 
 /* Hover and focus for links in dark background */
 .bg-dark a:hover, .bg-dark a:focus {
     color: #adb5bd; /* Light grey for hover and focus states */
-    text-decoration: none; /* Optional for better visibility *
-	border-style: none;/
+    text-decoration: none; /* Optional for better visibility */
+	border-style: none;
 }
 
 /* Nav item background on hover */
 .navbar-dark .navbar-nav .nav-item:hover {
     background-color: #495057; /* Dark grey background for hover effect */
 	text-decoration: none;
-	border-style: none;
 }
 
 /* Nav item active background */
@@ -133,7 +131,6 @@ a:active {
 	color: #ffc107; /* Hover color */
 	text-decoration: none;
 	width: 100%;
-	border-style: none;
 }
 
 .navbar-dark .dropdown-menu-custom table, th, td {
@@ -147,7 +144,7 @@ a:active {
 .navbar-dark .dropdown-menu-custom button {
 	text-align:left;
 	width: 100%;
-	border-style: none;
+	
 }
 
 .md-block a {
