@@ -24,7 +24,7 @@ title: Simplify Your Business IT - Stress-Free Managed IT Solutions
 </style>
 <div id="mc_embed_signup">
     <form action="https://skarlet.us13.list-manage.com/subscribe/post?u=244988b289a2b9a2ca0e8a7a0&amp;id=b0614d89ab&amp;f_id=0043c2e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self" novalidate="">
-        <div id="mc_embed_signup_scroll"><br><h2>Get Your Free Consoltation!</h2>
+        <div id="mc_embed_signup_scroll"><br><h2>Get Your Free Consoltation! </h2>
             <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
             <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div><div class="mc-field-group"><label for="mce-FNAME">First Name <span class="asterisk">*</span></label><input type="text" name="FNAME" class="required text" id="mce-FNAME" required="" value=""></div><div class="mc-field-group"><label for="mce-LNAME">Last Name <span class="asterisk">*</span></label><input type="text" name="LNAME" class="required text" id="mce-LNAME" required="" value=""></div><div class="mc-field-group"><label for="mce-COMPANY">Company <span class="asterisk">*</span></label><input type="text" name="COMPANY" class="required text" id="mce-COMPANY" required="" value=""></div><div class="mc-field-group"><label for="mce-PHONE">Phone Number <span class="asterisk">*</span></label><input type="text" name="PHONE" class="REQ_CSS" id="mce-PHONE" value=""></div>
 <div hidden=""><input type="hidden" name="tags" value="190"></div>
