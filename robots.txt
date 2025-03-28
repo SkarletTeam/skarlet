@@ -1,7 +1,6 @@
 User-agent: *
-Disallow: /img/
 Disallow: /cyber/
-Disallow: /css/
+
 
 User-agent: *
 Allow: /
