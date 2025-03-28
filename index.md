@@ -13,7 +13,7 @@ title: Skarlet Corp. IT and Security Services.
 		  <img class="d-block w-25" src="./img/remote support 247365.webp" alt="24 7 365 Remote Support">
 		</div>
 		<div class="carousel-item">
-		  <img class="d-block w-25" src="./img/Partner Program.webp" alt="Partner Programs">
+		  <img class="d-block w-25" src="./img/Partner Program.webp" alt="Microsoft Partner Program">
 		</div>
 		<div class="carousel-item">
 		  <img class="d-block w-25" src="./img/managed it and security.webp" alt="Managed IT & Security">

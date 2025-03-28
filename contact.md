@@ -9,7 +9,7 @@ title: Contact Us!
 <div class="container">
 <!-- Bootstrap Contact Card with Image -->
 	<div class="card-group" style="width: 525; hight: 300">
-	<img src="/img/Skarlet Corp Contact Card.webp" class="w-50" alt="Contact Image">
+	<img src="/img/Skarlet Corp Contact Card.webp" alt="Skarlet Corp. of Dixie County Florida" class="w-50">
 		<div class="card" style="w-75; h-75">
 			<div class="row g-0">
 				<!-- Contact Information Section -->
