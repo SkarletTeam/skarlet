@@ -31,7 +31,4 @@ title: Contact Us!
 <center>
 {% include reviews.html %}
 </center>
-<br>
-<iframe src='https://outlook.office365.com/book/BookWithSkarletCorpforaFreeconsultation@skarlet.org/' width='100%' height='2600' scrolling='no' style='border:0'></iframe>
-<br>
 
