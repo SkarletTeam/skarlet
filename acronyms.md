@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Acronyms
+title: Acronyms - Skarlet Corp. IT and Security Services
 ---
 
 <style>
@@ -21,7 +21,39 @@ title: Acronyms
 			color: black;
         }		
 </style>
-
+<center>
+<br>
+<nav aria-label="Acronym List Nav">
+  <ul class="pagination pagination-sm justify-content-center">
+    <li class="page-item"><a class="page-link" href="#a">a</a></li>
+    <li class="page-item"><a class="page-link" href="#b">b</a></li>
+    <li class="page-item"><a class="page-link" href="#c">c</a></li>
+    <li class="page-item"><a class="page-link" href="#d">d</a></li>
+    <li class="page-item"><a class="page-link" href="#e">e</a></li>
+    <li class="page-item"><a class="page-link" href="#f">f</a></li>
+    <li class="page-item"><a class="page-link" href="#g">g</a></li>
+    <li class="page-item"><a class="page-link" href="#h">h</a></li>
+    <li class="page-item"><a class="page-link" href="#i">i</a></li>
+    <li class="page-item"><a class="page-link" href="#j">j</a></li>
+    <li class="page-item"><a class="page-link" href="#k">k</a></li>
+    <li class="page-item"><a class="page-link" href="#l">l</a></li>
+    <li class="page-item"><a class="page-link" href="#m">m</a></li>
+    <li class="page-item"><a class="page-link" href="#n">n</a></li>
+    <li class="page-item"><a class="page-link" href="#o">o</a></li>
+    <li class="page-item"><a class="page-link" href="#p">p</a></li>
+    <li class="page-item"><a class="page-link" href="#q">q</a></li>
+	<li class="page-item"><a class="page-link" href="#r">r</a></li>
+    <li class="page-item"><a class="page-link" href="#s">s</a></li>
+    <li class="page-item"><a class="page-link" href="#t">t</a></li>
+    <li class="page-item"><a class="page-link" href="#u">u</a></li>
+    <li class="page-item"><a class="page-link" href="#v">v</a></li>
+    <li class="page-item"><a class="page-link" href="#w">w</a></li>
+    <li class="page-item"><a class="page-link" href="#x">x</a></li>
+    <li class="page-item"><a class="page-link" href="#y">y</a></li>
+    <li class="page-item"><a class="page-link" href="#z">z</a></li>
+  </ul>
+</nav>
+</center>
 <center>
 <h1 id="acronym-list">Acronym List</h1>
 </center>
@@ -38,7 +70,7 @@ title: Acronyms
 <td>Two-Factor Authentication</td>
 </tr>
 <tr>
-<td>ACID</td>
+<td id="a">ACID</td>
 <td>Atomicity, Consistency, Isolation, Durability (database properties)</td>
 </tr>
 <tr>
@@ -66,7 +98,7 @@ title: Acronyms
 <td>Annual Recurring Revenue</td>
 </tr>
 <tr>
-<td>BC</td>
+<td id="b">BC</td>
 <td>Business Continuity</td>
 </tr>
 <tr>
@@ -94,7 +126,7 @@ title: Acronyms
 <td>Bring Your Own Device</td>
 </tr>
 <tr>
-<td>CAGR</td>
+<td id="c">CAGR</td>
 <td>Compound Annual Growth Rate</td>
 </tr>
 <tr>
@@ -178,7 +210,7 @@ title: Acronyms
 <td>Call To Action</td>
 </tr>
 <tr>
-<td>DaaS</td>
+<td id="d">DaaS</td>
 <td>Data as a Service</td>
 </tr>
 <tr>
@@ -234,7 +266,7 @@ title: Acronyms
 <td>Digital Video Recorder</td>
 </tr>
 <tr>
-<td>EBITDA</td>
+<td id="e">EBITDA</td>
 <td>Earnings Before Interest, Taxes, Depreciation, and Amortization</td>
 </tr>
 <tr>

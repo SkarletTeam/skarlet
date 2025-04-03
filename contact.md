@@ -1,34 +1,31 @@
 ---
 layout: default
-title: Contact Us!
+title: Contact Us! - Skarlet Corp. IT and Security Services
 ---
 
 <meta name="description" content="Contact Skarlet Corp. Managed IT and Cyber Security Services in Dixie County Florida">
 
 <br>
-<div class="container">
+<div class="container border-0">
 <!-- Bootstrap Contact Card with Image -->
-	<div class="card-group" style="width: 525; hight: 300">
-	<img src="/img/Skarlet Corp Contact Card.webp" alt="Skarlet Corp. of Dixie County Florida" class="w-50">
-		<div class="card" style="w-75; h-75">
-			<div class="row g-0">
+	<div class="card-group" style="width: 525; hight: 300" >
+	<img src="/img/remote_support.webp" alt="Skarlet Corp. of Dixie County Florida" class="w-50">
+		<div class="card border-0" style="w-100; h-100">
+			<div class="row g-0 ">
 				<!-- Contact Information Section -->
 				<div class="col-md-8">
 					<div class="card-body">
 						<h3 class="card-title">Contact Us</h3>
-						<p class="card-text text-left">
-						<strong>Phone:</strong> <a href="tel:+13523898590"> +1 (352) 389-8590</a><br>
-						<strong>Email:</strong> <a href="mailto:info@skarlet.org">info@skarlet.org</a><br>
-						<strong>Address:</strong> PO Box 3, 151 SW CEDAR ST, CROSS CITY, FL 32628-2105
-						</p>
+						<div>
+							<div class="feature bg-primary bg-gradient text-white rounded-3 mb-1"><i class="bi bi-telephone-fill"></i></div> <a href="tel:+13523898590"> +1 (352) 389-8590 </a> <br>
+							<div class="feature bg-primary bg-gradient text-white rounded-3 mb-1"><i class="bi bi-envelope-fill"></i></div> <a href="mailto:info@skarlet.org"> info@skarlet.org </a><br>
+							<div class="feature bg-primary bg-gradient text-white rounded-3 mb-1"><i class="bi bi-mailbox2"></i></div> PO Box 3, CROSS CITY, FL 32628
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
-<br>
-<center>
-{% include reviews.html %}
-</center>
 
+<br>
