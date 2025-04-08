@@ -165,7 +165,7 @@ title: Homepage - Skarlet Corp. IT and Security Services
                     <div class="card-body p-4">
                         <div class="badge bg-primary bg-gradient rounded-pill mb-2">Cyber Security</div>
                         <a class="text-decoration-none link-dark stretched-link" href="/services/cyber_security_services"><h5 class="card-title mb-3">Business Grade Anti-Virus (AV)</h5></a>
-                        <p class="card-text mb-0">Some more quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p class="card-text mb-0">Robust Business-Grade Antivirus for Maximum Protection</p>
                     </div>
                     <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                         <div class="d-flex align-items-end justify-content-between">

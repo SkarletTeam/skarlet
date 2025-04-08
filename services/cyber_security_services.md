@@ -25,8 +25,8 @@ title: Managed Cyber Security Services - Skarlet Corp. IT and Security Services
     <div class="container px-lg-5">
         <div class="p-4 p-lg-5 rounded-3 text-center">
             <div class="m-4 m-lg-5">
-                <h1 class="display-5 fw-bold">Our IT Solutions!</h1>
-                <p class="fs-4">Comprehensive IT Solutions to Keep Your Business Running Smoothly</p>
+                <h1 class="display-5 fw-bold">Our Cyber Security Solutions!</h1>
+                <p class="fs-4">Comprehensive Cyber Security Solutions to Keep Your Business Running Smoothly</p>
                 <a class="btn btn-primary btn-lg" href="../../contact">Get Started Today!</a>
             </div>
         </div>
@@ -40,18 +40,18 @@ title: Managed Cyber Security Services - Skarlet Corp. IT and Security Services
             <div class="col-lg-6 col-xxl-4 mb-5">
                 <div class="card border-0 h-100">
                     <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
-                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-microsoft"></i></div>
-                        <h2 class="fs-4 fw-bold">Microsoft 365 Solutions</h2>
-                        <p class="mb-0">Optimize productivity, enhance security, and streamline collaboration with our Microsoft services, including Email, Azure, and Teams. </p>
+                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-key-fill"></i></div>
+                        <h2 class="fs-4 fw-bold">Password Managers</h2>
+                        <p class="mb-0">Simplify and Secure Your Logins with Business-Ready Password Managers</p>
                     </div>
                 </div>
             </div>
             <div class="col-lg-6 col-xxl-4 mb-5">
                 <div class="card border-0 h-100">
                     <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
-                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-headset"></i></div>
-                        <h2 class="fs-4 fw-bold">Remote Work Solutions</h2>
-                        <p class="mb-0">Stay connected, secure, and productive from anywhere with our Remote Work solutions, including VPNs, cloud access, and collaboration tools.</p>
+                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-bug-fill"></i></div>
+                        <h2 class="fs-4 fw-bold">Business Grade Anti-Virus (AV)</h2>
+                        <p class="mb-0">Comprehensive Protection with Business-Grade Antivirus Solutions</p>
                     </div>
                 </div>
             </div>
@@ -59,8 +59,26 @@ title: Managed Cyber Security Services - Skarlet Corp. IT and Security Services
                 <div class="card border-0 h-100">
                     <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
                         <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-eye-fill"></i></div>
-                        <h2 class="fs-4 fw-bold">Remote Monitoring and Management</h2>
-                        <p class="mb-0">Keep your systems secure, updated, and running smoothly with our Remote Monitoring and Management (RMM) services.</p>
+                        <h2 class="fs-4 fw-bold">Endpoint Detection and Response (EDR)</h2>
+                        <p class="mb-0">Real-Time Threat Detection and Defense with Endpoint Detection and Response (EDR)</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-xxl-4 mb-5">
+                <div class="card border-0 h-100">
+                    <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
+                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-check2-all"></i></div>
+                        <h2 class="fs-4 fw-bold">Multi-factor Authentication (MFA)</h2>
+                        <p class="mb-0">Strengthen Account Security with Multi-Factor Authentication (MFA)</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-xxl-4 mb-5">
+                <div class="card border-0 h-100">
+                    <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
+                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-search"></i></div>
+                        <h2 class="fs-4 fw-bold">Managed Detection and Response (MDR)</h2>
+                        <p class="mb-0">24/7 Threat Monitoring and Rapid Response with Managed Detection and Response (MDR)</p>
                     </div>
                 </div>
             </div>
@@ -68,26 +86,8 @@ title: Managed Cyber Security Services - Skarlet Corp. IT and Security Services
                 <div class="card border-0 h-100">
                     <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
                         <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-people-fill"></i></div>
-                        <h2 class="fs-4 fw-bold">Unlimited Remote Support & Contracted On-Site Support</h2>
-                        <p class="mb-0">Get unlimited remote support and reliable on-site assistance with our contracted IT support services.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6 col-xxl-4 mb-5">
-                <div class="card border-0 h-100">
-                    <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
-                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-server"></i></div>
-                        <h2 class="fs-4 fw-bold">Infrastructure Planning and Implementation</h2>
-                        <p class="mb-0">We will help you design and build your business network from ground up, need firewalls, routers, switches? We got you covered.</p>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6 col-xxl-4 mb-5">
-                <div class="card border-0 h-100">
-                    <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
-                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-patch-check"></i></div>
-                        <h2 class="fs-4 fw-bold">IT and Security Consulting</h2>
-                        <p class="mb-0">Need someone to review your Policies, Network, or need some advice? We do that too!</p>
+                        <h2 class="fs-4 fw-bold">Cyber Security Consulting</h2>
+                        <p class="mb-0">Need someone to review your Policies, Best Practices, or need some advice? We do that too!</p>
                     </div>
                 </div>
             </div>
