@@ -59,8 +59,8 @@ title: Backup Services - Skarlet Corp. IT and Security Services
                 <div class="card border-0 h-100">
                     <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0">
                         <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4"><i class="bi bi-coin"></i></div>
-                        <h2 class="fs-4 fw-bold">Quickbooks Backup</h2>
-                        <p class="mb-0">Reliable and Secure Quickbooks Backup for Your Financial Data</p>
+                        <h2 class="fs-4 fw-bold">QuickBooks Backup</h2>
+                        <p class="mb-0">Reliable and Secure QuickBooks Backup for Your Financial Data</p>
                     </div>
                 </div>
             </div>
