@@ -21,7 +21,7 @@ title: Free Resources! - Skarlet Corp. IT and Security Services
                             <span class="display-5 fw-bold">Security Check-list</span>
                             <span class="text-muted"></span>
                         </div>
-                        <div class="d-grid"><a class="btn btn-primary" href="/img/Small Business Security check list Infographic.pdf">Download</a></div>
+                        <div class="d-grid"><a class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#downloadModal" href="#">Download</a></div>
                     </div>
                 </div>
             </div>
