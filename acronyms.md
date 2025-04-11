@@ -61,7 +61,7 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 
 <center>
 <div style="min-height: 120px;">
-	<div class="collapse collapse-horizontal" id="a">
+	<div class="d-flex flex-wrap collapse collapse-horizontal" id="a">
 		<div class="card card-body border-0" style="width: 1200px;">
 			<table>
 				<thead>
