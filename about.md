@@ -88,8 +88,9 @@ title: About Us!
 <br>
   <h2>Our Teams Certifications!</h2>
 <br>
-  <img class="d-block w-10" src="/img/certs.webp" alt="IT and Cyber Security Industry Certified" width="595" height="79">
+<img src="/img/certs.webp" alt="IT and Cyber Security Industry Certified" style="width: 100%; max-width: 50%; height: auto; display: block; margin: 0 auto;">
 <br>
+
 <br>
 </center>
 </section>
