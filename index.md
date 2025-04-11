@@ -30,22 +30,22 @@ title: Homepage - Skarlet Corp. IT and Security Services
             <div class="col-lg-8">
                 <div class="row gx-5 row-cols-1 row-cols-md-2">
                     <div class="col mb-5 h-100">
-                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-collection"></i></div>
+                        <div class="feature badge-gradient  text-white rounded-3 mb-3"><i class="bi bi-collection"></i></div>
                         <h2 class="h5">Remote Monitoring & Maintenance</h2>
                         <p class="mb-0">With our remote monitoring services, we constantly keep an eye on your systems to detect and address issues before they disrupt your business. Our proactive approach minimizes downtime, ensuring your business stays up and running 24/7.</p>
                     </div>
                     <div class="col mb-5 h-100">
-                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-building"></i></div>
+                        <div class="feature badge-gradient  text-white rounded-3 mb-3"><i class="bi bi-building"></i></div>
                         <h2 class="h5">Patch Management</h2>
                         <p class="mb-0">Keeping software and systems updated is crucial for security. We manage and apply patches regularly, so you don’t have to worry about potential vulnerabilities.</p>
                     </div>
                     <div class="col mb-5 mb-md-0 h-100">
-                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-toggles2"></i></div>
+                        <div class="feature badge-gradient  text-white rounded-3 mb-3"><i class="bi bi-toggles2"></i></div>
                         <h2 class="h5">Security & Compliance Assistance</h2>
                         <p class="mb-0">As cybersecurity threats continue to evolve, businesses are under increasing pressure to stay compliant with regulations. We help you meet industry standards and secure your data against breaches, malware, and phishing attacks.</p>
                     </div>
                     <div class="col h-100">
-                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="bi bi-toggles2"></i></div>
+                        <div class="feature badge-gradient  text-white rounded-3 mb-3"><i class="bi bi-toggles2"></i></div>
                         <h2 class="h5">Business Suite & Email Backup Services</h2>
                         <p class="mb-0">Your data is the lifeblood of your business. Our cloud backup services ensure that your critical files, including emails and accounting data like QuickBooks, are always safe and easily recoverable in the event of an emergency.</p>
                     </div>
@@ -81,7 +81,7 @@ title: Homepage - Skarlet Corp. IT and Security Services
                 <div class="card h-100 shadow border-0">
                     <img class="card-img-top" src="/img/voip.webp" alt="Managed VoIP" />
                     <div class="card-body p-4">
-                        <div class="badge bg-primary bg-gradient rounded-pill mb-2">VoIP</div>
+                        <div class="badge badge-gradient rounded-pill mb-2">VoIP</div>
                         <a class="text-decoration-none link-dark stretched-link" href="/services/managed_voip"><h5 class="card-title mb-3">Managed VoIP & Conference Room Equipment Installs</h5></a>
                         <p class="card-text mb-0">Enhance call quality, access cutting-edge VoIP features, and resolve issues quickly with our Managed VoIP service.</p>
                     </div>
@@ -97,7 +97,7 @@ title: Homepage - Skarlet Corp. IT and Security Services
                 <div class="card h-100 shadow border-0">
                     <img class="card-img-top" src="/img/backups.webp" alt="Business Suite and Email Backups" />
                     <div class="card-body p-4">
-                        <div class="badge bg-primary bg-gradient rounded-pill mb-2">Backups</div>
+                        <div class="badge badge-gradient  rounded-pill mb-2">Backups</div>
                         <a class="text-decoration-none link-dark stretched-link" href="/services/backup_services"><h5 class="card-title mb-3">Business Suite and Email Backups</h5></a>
                         <p class="card-text mb-0">Comprehensive Backup Solutions for Business Suite & Email</p>
                     </div>
@@ -113,7 +113,7 @@ title: Homepage - Skarlet Corp. IT and Security Services
                 <div class="card h-100 shadow border-0">
                     <img class="card-img-top" src="/img/password.webp" alt="Password Managers & MFA" />
                     <div class="card-body p-4">
-                        <div class="badge bg-primary bg-gradient rounded-pill mb-2">Cyber Security</div>
+                        <div class="badge badge-gradient  rounded-pill mb-2">Cyber Security</div>
                         <a class="text-decoration-none link-dark stretched-link" href="/services/cyber_security_services"><h5 class="card-title mb-3">Password Managers and Multi-factor Authentication</h5></a>
                         <p class="card-text mb-0">Secure Your Accounts with Password Management & Multi-Factor Authentication</p>
                     </div>
@@ -131,7 +131,7 @@ title: Homepage - Skarlet Corp. IT and Security Services
                 <div class="card h-100 shadow border-0">
                     <img class="card-img-top" src="/img/techy_girl.webp" alt="Detection and Response" />
                     <div class="card-body p-4">
-                        <div class="badge bg-primary bg-gradient rounded-pill mb-2">Cyber Security</div>
+                        <div class="badge badge-gradient  rounded-pill mb-2">Cyber Security</div>
                         <a class="text-decoration-none link-dark stretched-link" href="/services/cyber_security_services"><h5 class="card-title mb-3">Endpoint Detection & Response (EDR) and Managed Detection & Response (MDR)</h5></a>
                         <p class="card-text mb-0">Advanced Threat Protection with Endpoint & Managed Detection and Response (EDR/MDR)</p>
                     </div>
@@ -147,7 +147,7 @@ title: Homepage - Skarlet Corp. IT and Security Services
                 <div class="card h-100 shadow border-0">
                     <img class="card-img-top" src="/img/microsoft.webp" alt="Microsoft 365 Solutions" />
                     <div class="card-body p-4">
-                        <div class="badge bg-primary bg-gradient rounded-pill mb-2">IT Servies</div>
+                        <div class="badge badge-gradient  rounded-pill mb-2">IT Servies</div>
                         <a class="text-decoration-none link-dark stretched-link" href="/services/it_services"><h5 class="card-title mb-3">Microsoft 365 Solutions</h5></a>
                         <p class="card-text mb-0">Optimize productivity, enhance security, and streamline collaboration with our Microsoft services, including Email, Azure, and Teams.</p>
                     </div>
@@ -163,7 +163,7 @@ title: Homepage - Skarlet Corp. IT and Security Services
                 <div class="card h-100 shadow border-0">
                     <img class="card-img-top" src="/img/virus.webp" alt="Anti-Virus" />
                     <div class="card-body p-4">
-                        <div class="badge bg-primary bg-gradient rounded-pill mb-2">Cyber Security</div>
+                        <div class="badge badge-gradient  rounded-pill mb-2">Cyber Security</div>
                         <a class="text-decoration-none link-dark stretched-link" href="/services/cyber_security_services"><h5 class="card-title mb-3">Business Grade Anti-Virus (AV)</h5></a>
                         <p class="card-text mb-0">Robust Business-Grade Antivirus for Maximum Protection</p>
                     </div>
@@ -181,7 +181,7 @@ title: Homepage - Skarlet Corp. IT and Security Services
                 <div class="card h-100 shadow border-0">
                     <img class="card-img-top" src="/img/field-engineer.webp" alt="Remote Monitoring & Management" />
                     <div class="card-body p-4">
-                        <div class="badge bg-primary bg-gradient rounded-pill mb-2">IT Services</div>
+                        <div class="badge badge-gradient  rounded-pill mb-2">IT Services</div>
                         <a class="text-decoration-none link-dark stretched-link" href="/services/it_services"><h5 class="card-title mb-3">Remote Monitoring & Management (RMM)</h5></a>
                         <p class="card-text mb-0">Proactive Remote Monitoring & Management for Your IT Infrastructure</p>
                     </div>
@@ -197,7 +197,7 @@ title: Homepage - Skarlet Corp. IT and Security Services
                 <div class="card h-100 shadow border-0">
                     <img class="card-img-top" src="/img/remote_worker.webp" alt="Remote Work Solutions" />
                     <div class="card-body p-4">
-                        <div class="badge bg-primary bg-gradient rounded-pill mb-2">IT Services</div>
+                        <div class="badge badge-gradient  rounded-pill mb-2">IT Services</div>
                         <a class="text-decoration-none link-dark stretched-link" href="/services/it_services"><h5 class="card-title mb-3">Remote Work Solutions</h5></a>
                         <p class="card-text mb-0">Secure, Seamless, and Efficient Remote Work Solutions</p>
                     </div>
@@ -213,7 +213,7 @@ title: Homepage - Skarlet Corp. IT and Security Services
                 <div class="card h-100 shadow border-0">
                     <img class="card-img-top" src="/img/remote_support.webp" alt="Remote Support" />
                     <div class="card-body p-4">
-                        <div class="badge bg-primary bg-gradient rounded-pill mb-2">IT Services</div>
+                        <div class="badge badge-gradient  rounded-pill mb-2">IT Services</div>
                         <a class="text-decoration-none link-dark stretched-link" href="/services/it_services"><h5 class="card-title mb-3">Unlimited Remote Support & Contracted On-Site Support</h5></a>
                         <p class="card-text mb-0">Reliable IT Support: Unlimited Remote Support & Contracted On-Site Services</p>
                     </div>
