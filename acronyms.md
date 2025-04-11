@@ -25,6 +25,7 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 
 <div class="container mt-4">
   <div class="card shadow rounded overflow-hidden">
+  <br>
     <img src="/img/definitions.jpg" class="card-img-top img-fluid mx-auto d-block" style="width: 50%;" alt="Acronyms">
     <div class="card-body text-center">
       <h2 class="card-title mb-0">Acronyms & Definitions</h2>
