@@ -15,7 +15,7 @@ title: Free Resources! - Skarlet Corp. IT and Security Services
             <div class="col-lg-6 col-xl-4">
                 <div class="card mb-5 mb-xl-0">
                     <div class="card-body p-5">
-                        <div class="small text-uppercase fw-bold text-muted">Free</div>
+                        <div class="badge small text-uppercase fw-bold">Free</div>
                         <div class="mb-3">
                             <span class="display-5 fw-bold">Security Check-list</span>
                             <span class="text-muted"></span>
@@ -28,12 +28,12 @@ title: Free Resources! - Skarlet Corp. IT and Security Services
             <div class="col-lg-6 col-xl-4">
                 <div class="card mb-5 mb-xl-0">
                     <div class="card-body p-5">
-                        <div class="small text-uppercase fw-bold">free</div>
+                        <div class="badge small text-uppercase fw-bold">Free</div>
                         <div class="mb-3">
-                            <span class="display-5 fw-bold">Coming Soon...</span>
+                            <span class="display-5 fw-bold">It Compliance Quick Guide</span>
                             <span class="text-muted"></span>
                         </div>
-                        <div class="d-grid"><a class="btn btn-primary disabled" href="#!">Download</a></div>
+                        <div class="d-grid"><a class="btn btn-primary" href="#!">Download</a></div>
                     </div>
                 </div>
             </div>
@@ -41,7 +41,7 @@ title: Free Resources! - Skarlet Corp. IT and Security Services
             <div class="col-lg-6 col-xl-4">
                 <div class="card">
                     <div class="card-body p-5">
-                        <div class="small text-uppercase fw-bold text-muted">free</div>
+                        <div class="badge small text-uppercase fw-bold">Free</div>
                         <div class="mb-3">
                             <span class="display-5 fw-bold">Coming Soon...</span>
                             <span class="text-muted"></span>
