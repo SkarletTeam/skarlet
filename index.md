@@ -11,7 +11,7 @@ title: Homepage - Skarlet Corp. IT and Security Services
                 <div class="my-5 text-center text-xl-start">
                     <h1 class="display-5 fw-bolder text-white mb-2">Skarlet Corp.</h1>
 					<p class="display-5 fw-bolder text-white mb-2"><strong>IT Solutions You Can Rely On</strong></p>
-                    <p class="lead fw-normal text-white-50 mb-4">Skarlet Corp delivers reliable, affordable IT solutions for SMBs in Dixie County, FL. With 16+ years of experience, we keep your systems running smoothly and secure against cyber threats.</p>
+                    <p class="lead fw-normal text-white mb-4">Skarlet Corp delivers reliable, affordable IT solutions for SMBs in Dixie County, FL. With 16+ years of experience, we keep your systems running smoothly and secure against cyber threats.</p>
                     <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
                         <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Get Started</a>
                         <a class="btn btn-outline-primary btn-lg px-4" href="#services">Learn More</a>
