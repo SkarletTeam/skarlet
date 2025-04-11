@@ -23,6 +23,16 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 </style>
 
 
+<div class="container mt-4">
+  <div class="card shadow rounded overflow-hidden">
+    <img src="/img/definitions.jpg" class="card-img-top img-fluid mx-auto d-block" style="width: 50%;" alt="Acronyms">
+    <div class="card-body text-center">
+      <h2 class="card-title mb-0">Acronyms & Definitions</h2>
+      <!-- Optional: Add subtitle or description -->
+      <!-- <p class="card-text">A brief subtitle or description goes here.</p> -->
+    </div>
+
+
 <br>
 <div class="container aligh-center">
 
@@ -1324,6 +1334,6 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 </div>
 </center>
 </div>
+  </div>
+</div>
 <br>
-
-
