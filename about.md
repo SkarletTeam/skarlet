@@ -57,14 +57,14 @@ title: About Us!
                     <div class="fst-italic text-muted">Owner &amp; President</div>
                 </div>
            </div>
-            <!-- <div class="col mb-5 mb-5 mb-xl-0">
+            <div class="col mb-5 mb-5 mb-xl-0">
                 <div class="text-center">
                     <img class="img-fluid rounded-circle mb-4 px-4" src="https://dummyimage.com/150x150/ced4da/6c757d" alt="Photo Placeholder" />
-                    <h5 class="fw-bolder">Arden Vasek</h5>
-                    <div class="fst-italic text-muted">CFO</div>
+                    <h5 class="fw-bolder">Lexi Sinclair</h5>
+                    <div class="fst-italic text-muted">Administrative Assistant</div>
                 </div>
             </div>
-            <div class="col mb-5 mb-5 mb-sm-0">
+            <!-- <div class="col mb-5 mb-5 mb-sm-0">
                 <div class="text-center">
                     <img class="img-fluid rounded-circle mb-4 px-4" src="https://dummyimage.com/150x150/ced4da/6c757d" alt="Photo Placeholder" />
                     <h5 class="fw-bolder">Toribio Nerthus</h5>
