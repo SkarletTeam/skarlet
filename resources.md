@@ -8,8 +8,7 @@ title: Free Resources! - Skarlet Corp. IT and Security Services
 <section class="bg-light py-5">
     <div class="container px-5 my-5">
         <div class="text-center mb-5">
-            <h1 class="fw-bolder">Download Free Resources</h1>
-            <p class="lead fw-normal text-muted mb-0">With our no hassle</p>
+            <h1 class="fw-bolder"><i class="bi bi-cloud-arrow-down-fill"></i> Download Free Resources</h1>
         </div>
         <div class="row gx-5 justify-content-center">
             <!-- Pricing card free-->
