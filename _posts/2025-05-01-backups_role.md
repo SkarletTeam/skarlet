@@ -4,7 +4,7 @@ title: "The Role of Backups in Ransomware Defense"
 tags: [tech, blog]
 excerpt: "In today’s cyber threat landscape, ransomware is one of the most dangerous and costly attacks a business can face. These malicious programs encrypt your data and demand payment—often in cryptocurrency—to restore access. For small and mid-sized businesses, paying the ransom isn’t just financially risky—it’s no guarantee of recovery. That’s why **having reliable backups** is one of the most important defenses in your cybersecurity strategy."
 author: "Anonymous"
-date: 2025-04-15
+date: 2025-05-01
 image: /img/blog/ransomware.jpg
 ---
 

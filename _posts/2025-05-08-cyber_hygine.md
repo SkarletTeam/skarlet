@@ -4,7 +4,7 @@ title: "Why Cyber Hygiene is Critical for Remote Teams"
 tags: [tech, blog]
 excerpt: "As remote work becomes the norm rather than the exception, small and mid-sized businesses face a growing cybersecurity challenge: securing a workforce that operates outside the traditional office perimeter. In 2025, remote and hybrid environments are ripe targets for cybercriminals, and many organizations are still playing catch-up when it comes to enforcing good cyber hygiene."
 author: "Anonymous"
-date: 2025-04-15
+date: 2025-05-08
 image: /img/blog/privacy.jpg
 ---
 

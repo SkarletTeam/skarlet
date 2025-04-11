@@ -4,7 +4,7 @@ title: "How to Secure Your Small Business with Limited Resources"
 tags: [tech, blog]
 excerpt: "Cybersecurity isn’t just a concern for large enterprises anymore. In 2025, small businesses are increasingly in the crosshairs of cybercriminals—and often, they’re the most vulnerable. With limited budgets, minimal staff, and growing digital footprints, many small businesses struggle to keep up. The good news? You don’t need a massive IT budget to start protecting your business. With the right strategies, even small teams can build strong defenses."
 author: "Anonymous"
-date: 2025-04-12
+date: 2025-04-24
 image: /img/blog/small_business.jpg
 ---
 
