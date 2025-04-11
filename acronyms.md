@@ -107,7 +107,7 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 			</table>
 		</div>
 	</div>
-	<div class="collapse collapse-horizontal" id="b">
+	<div class="d-flex flex-wrap collapse collapse-horizontal" id="b">
 		<div class="card card-body border-0" style="width: 1200px;">
 			<table>
 				<thead>
@@ -149,7 +149,7 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 			</table>
 		</div>
 	</div>
-	<div class="collapse collapse-horizontal" id="c">
+	<div class="d-flex flex-wrap collapse collapse-horizontal" id="c">
 		<div class="card card-body border-0" style="width: 1200px;">
 			<table>
 				<thead>
@@ -247,7 +247,7 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 			</table>
 		</div>
 	</div>
-	<div class="collapse collapse-horizontal" id="d">
+	<div class="d-flex flex-wrap collapse collapse-horizontal" id="d">
 		<div class="card card-body border-0" style="width: 1200px;">
 			<table>
 				<thead>
@@ -317,7 +317,7 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 			</table>
 		</div>
 	</div>
-	<div class="collapse collapse-horizontal" id="e">
+	<div class="d-flex flex-wrap collapse collapse-horizontal" id="e">
 		<div class="card card-body border-0" style="width: 1200px;">
 			<table>
 				<thead>
@@ -363,7 +363,7 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 			</table>
 		</div>
 	</div>
-	<div class="collapse collapse-horizontal" id="f">
+	<div class="d-flex flex-wrap collapse collapse-horizontal" id="f">
 		<div class="card card-body border-0" style="width: 1200px;">
 			<table>
 				<thead>
@@ -385,7 +385,7 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 			</table>
 		</div>
 	</div>
-	<div class="collapse collapse-horizontal" id="g">
+	<div class="d-flex flex-wrap collapse collapse-horizontal" id="g">
 		<div class="card card-body border-0" style="width: 1200px;">
 			<table>
 				<thead>
@@ -423,7 +423,7 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 			</table>
 		</div>
 	</div>
-	<div class="collapse collapse-horizontal" id="h">
+	<div class="d-flex flex-wrap collapse collapse-horizontal" id="h">
 		<div class="card card-body border-0" style="width: 1200px;">
 			<table>
 				<thead>
@@ -473,7 +473,7 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 			</table>
 		</div>
 	</div>
-	<div class="collapse collapse-horizontal" id="i">
+	<div class="d-flex flex-wrap collapse collapse-horizontal" id="i">
 		<div class="card card-body border-0" style="width: 1200px;">
 			<table>
 				<thead>
@@ -559,7 +559,7 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 			</table>
 		</div>
 	</div>
-	<div class="collapse collapse-horizontal" id="j">
+	<div class="d-flex flex-wrap collapse collapse-horizontal" id="j">
 		<div class="card card-body border-0" style="width: 1200px;">
 			<table>
 				<thead>
@@ -585,7 +585,7 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 			</table>
 		</div>
 	</div>
-	<div class="collapse collapse-horizontal" id="k">
+	<div class="d-flex flex-wrap collapse collapse-horizontal" id="k">
 		<div class="card card-body border-0" style="width: 1200px;">
 			<table>
 				<thead>
@@ -611,7 +611,7 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 			</table>
 		</div>
 	</div>
-	<div class="collapse collapse-horizontal" id="l">
+	<div class="d-flex flex-wrap collapse collapse-horizontal" id="l">
 		<div class="card card-body border-0" style="width: 1200px;">
 			<table>
 				<thead>
@@ -653,7 +653,7 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 			</table>
 		</div>
 	</div>
-	<div class="collapse collapse-horizontal" id="m">
+	<div class="d-flex flex-wrap collapse collapse-horizontal" id="m">
 		<div class="card card-body border-0" style="width: 1200px;">
 			<table>
 				<thead>
@@ -735,7 +735,7 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 			</table>
 		</div>
 	</div>
-	<div class="collapse collapse-horizontal" id="n">
+	<div class="d-flex flex-wrap collapse collapse-horizontal" id="n">
 		<div class="card card-body border-0" style="width: 1200px;">
 			<table>
 				<thead>
@@ -789,7 +789,7 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 			</table>
 		</div>
 	</div>
-	<div class="collapse collapse-horizontal" id="o">
+	<div class="d-flex flex-wrap collapse collapse-horizontal" id="o">
 		<div class="card card-body border-0" style="width: 1200px;">
 			<table>
 				<thead>
@@ -819,7 +819,7 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 			</table>
 		</div>
 	</div>
-	<div class="collapse collapse-horizontal" id="p">
+	<div class="d-flex flex-wrap collapse collapse-horizontal" id="p">
 		<div class="card card-body border-0" style="width: 1200px;">
 			<table>
 				<thead>
@@ -877,7 +877,7 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 			</table>
 		</div>
 	</div>
-	<div class="collapse collapse-horizontal" id="q">
+	<div class="d-flex flex-wrap collapse collapse-horizontal" id="q">
 		<div class="card card-body border-0" style="width: 1200px;">
 			<table>
 				<thead>
@@ -895,7 +895,7 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 			</table>
 		</div>
 	</div>
-	<div class="collapse collapse-horizontal" id="r">
+	<div class="d-flex flex-wrap collapse collapse-horizontal" id="r">
 		<div class="card card-body border-0" style="width: 1200px;">
 			<table>
 				<thead>
@@ -977,7 +977,7 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 			</table>
 		</div>
 	</div>
-	<div class="collapse collapse-horizontal" id="s">
+	<div class="d-flex flex-wrap collapse collapse-horizontal" id="s">
 		<div class="card card-body border-0" style="width: 1200px;">
 			<table>
 				<thead>
@@ -1051,7 +1051,7 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 			</table>
 		</div>
 	</div>
-	<div class="collapse collapse-horizontal" id="t">
+	<div class="d-flex flex-wrap collapse collapse-horizontal" id="t">
 		<div class="card card-body border-0" style="width: 1200px;">
 			<table>
 				<thead>
@@ -1093,7 +1093,7 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 			</table>
 		</div>
 	</div>
-	<div class="collapse collapse-horizontal" id="u">
+	<div class="d-flex flex-wrap collapse collapse-horizontal" id="u">
 		<div class="card card-body border-0" style="width: 1200px;">
 			<table>
 				<thead>
@@ -1147,7 +1147,7 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 			</table>
 		</div>
 	</div>
-	<div class="collapse collapse-horizontal" id="v">
+	<div class="d-flex flex-wrap collapse collapse-horizontal" id="v">
 		<div class="card card-body border-0" style="width: 1200px;">
 			<table>
 				<thead>
@@ -1209,7 +1209,7 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 			</table>
 		</div>
 	</div>
-	<div class="collapse collapse-horizontal" id="w">
+	<div class="d-flex flex-wrap collapse collapse-horizontal" id="w">
 		<div class="card card-body border-0" style="width: 1200px;">
 			<table>
 				<thead>
@@ -1247,7 +1247,7 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 			</table>
 		</div>
 	</div>
-	<div class="collapse collapse-horizontal" id="x">
+	<div class="d-flex flex-wrap collapse collapse-horizontal" id="x">
 		<div class="card card-body border-0" style="width: 1200px;">
 			<table>
 				<thead>
@@ -1273,7 +1273,7 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 			</table>
 		</div>
 	</div>
-	<div class="collapse collapse-horizontal" id="y">
+	<div class="d-flex flex-wrap collapse collapse-horizontal" id="y">
 		<div class="card card-body border-0" style="width: 1200px;">
 			<table>
 				<thead>
@@ -1295,7 +1295,7 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 			</table>
 		</div>
 	</div>
-	<div class="collapse collapse-horizontal" id="z">
+	<div class="d-flex flex-wrap collapse collapse-horizontal" id="z">
 		<div class="card card-body border-0" style="width: 1200px;">
 			<table>
 				<thead>
