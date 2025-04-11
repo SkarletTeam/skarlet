@@ -47,6 +47,8 @@ include:
 collections:
   reviews:
     output: true
+  posts:
+    output: true
 
 # Additional configuration (optional)
 future: false; # Whether to publish posts with future dates

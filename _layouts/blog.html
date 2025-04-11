@@ -18,22 +18,23 @@
 {% include nav.html %}
 </nav>
 <main>
-  <div class="container">
-	<div class="container" style="text-align: left;">
-		<section>
-        <ul>
-            {% for post in site.posts %}
-              <li>
-                <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-                <p>{{ post.date | date: "%B %d, %Y" }}</p>
-                <p>{{ post.excerpt }}</p>
-                <a href="{{ post.url }}">Read More</a>
-              </li>
-            {% endfor %}
-        </ul>
-			</section>
+<div class="container">
+	<div class="blog-list">
+	<br>
+	  {% for post in site.posts %}
+		<div class="post-card">
+		  {% if post.image %}
+			<img class="card-img" src="{{ post.image }}" alt="{{ post.title }}">
+		  {% endif %}
+		  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+		  <p class="post-date">{{ post.date | date: "%B %d, %Y" }}</p>
+		  <p class="excerpt">{{ post.excerpt }}</p>
+		  <a class="read-more" href="{{ post.url }}">Read More →</a>
 		</div>
+	  {% endfor %}
 	</div>
+
+</div>
 </main>
 {% include privacy.html %}
 {% include footer.html %}
