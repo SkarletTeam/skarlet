@@ -26,36 +26,38 @@ title: Acronyms - Skarlet Corp. IT and Security Services
 <br>
 <div class="container aligh-center">
 
-<div class="btn-toolbar" role="toolbar" aria-label="Toolbar with button groups">
-  <div class="btn-group me-2 border-0;" role="group" aria-label="First group">
+<div class="container my-3">
+  <div class="d-flex flex-wrap justify-content-start gap-2" role="toolbar" aria-label="Toolbar with button groups">
+    <!-- Alphabet Buttons -->
     <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#a" aria-expanded="false" aria-controls="a">A</button>
     <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#b" aria-expanded="false" aria-controls="b">B</button>
     <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#c" aria-expanded="false" aria-controls="c">C</button>
-	<button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#d" aria-expanded="false" aria-controls="d">D</button>
+    <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#d" aria-expanded="false" aria-controls="d">D</button>
     <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#e" aria-expanded="false" aria-controls="e">E</button>
-	<button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#f" aria-expanded="false" aria-controls="f">F</button>
+    <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#f" aria-expanded="false" aria-controls="f">F</button>
     <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#g" aria-expanded="false" aria-controls="g">G</button>
-	<button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#h" aria-expanded="false" aria-controls="h">H</button>
-	<button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#i" aria-expanded="false" aria-controls="i">I</button>
-	<button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#j" aria-expanded="false" aria-controls="j">J</button>
-	<button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#k" aria-expanded="false" aria-controls="k">K</button>
-	<button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#l" aria-expanded="false" aria-controls="l">L</button>
-	<button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#m" aria-expanded="false" aria-controls="m">M</button>
-	<button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#n" aria-expanded="false" aria-controls="n">N</button>
-	<button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#o" aria-expanded="false" aria-controls="o">O</button>
-	<button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#p" aria-expanded="false" aria-controls="p">P</button>
-	<button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#q" aria-expanded="false" aria-controls="q">Q</button>
-	<button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#r" aria-expanded="false" aria-controls="r">R</button>
-	<button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#s" aria-expanded="false" aria-controls="s">S</button>
-	<button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#t" aria-expanded="false" aria-controls="t">T</button>
-	<button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#u" aria-expanded="false" aria-controls="u">U</button>
-	<button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#v" aria-expanded="false" aria-controls="v">V</button>
-	<button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#w" aria-expanded="false" aria-controls="w">W</button>
-	<button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#x" aria-expanded="false" aria-controls="x">X</button>
-	<button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#y" aria-expanded="false" aria-controls="y">Y</button>
-	<button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#z" aria-expanded="false" aria-controls="z">Z</button>
+    <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#h" aria-expanded="false" aria-controls="h">H</button>
+    <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#i" aria-expanded="false" aria-controls="i">I</button>
+    <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#j" aria-expanded="false" aria-controls="j">J</button>
+    <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#k" aria-expanded="false" aria-controls="k">K</button>
+    <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#l" aria-expanded="false" aria-controls="l">L</button>
+    <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#m" aria-expanded="false" aria-controls="m">M</button>
+    <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#n" aria-expanded="false" aria-controls="n">N</button>
+    <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#o" aria-expanded="false" aria-controls="o">O</button>
+    <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#p" aria-expanded="false" aria-controls="p">P</button>
+    <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#q" aria-expanded="false" aria-controls="q">Q</button>
+    <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#r" aria-expanded="false" aria-controls="r">R</button>
+    <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#s" aria-expanded="false" aria-controls="s">S</button>
+    <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#t" aria-expanded="false" aria-controls="t">T</button>
+    <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#u" aria-expanded="false" aria-controls="u">U</button>
+    <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#v" aria-expanded="false" aria-controls="v">V</button>
+    <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#w" aria-expanded="false" aria-controls="w">W</button>
+    <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#x" aria-expanded="false" aria-controls="x">X</button>
+    <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#y" aria-expanded="false" aria-controls="y">Y</button>
+    <button type="button" class="btn btn-primary" data-bs-toggle="collapse" data-bs-target="#z" aria-expanded="false" aria-controls="z">Z</button>
   </div>
 </div>
+
 
 <center>
 <div style="min-height: 120px;">
