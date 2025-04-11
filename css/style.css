@@ -1,4 +1,14 @@
 <style>
+
+:root {
+  --bw-blue: #56B4E9;
+  --bw-orange: #E69F00;
+  --bw-green: #009E73;
+  --bw-purple: #CC79A7;
+  --bw-yellow: #F0E442;
+  --bw-gray: #999999;
+}
+
 #mc_embed_signup {
 	background:#fff; 
 	false;clear:left; 
@@ -7,25 +17,25 @@
 }
 
 a:link {
-  color: red;
+  color: #E69F00; /* Bang Wong orange */
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: black;
+  color: #56B4E9; /* Bang Wong sky blue */
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: yellow;
+  color: #F0E442; /* Bang Wong yellow */
   background-color: transparent;
   text-decoration: underline;
 }
 
 a:active {
-  color: green;
+  color: #009E73; /* Bang Wong green */
   background-color: transparent;
   text-decoration: underline;
 }
@@ -39,31 +49,31 @@ a:active {
 
 /* Hover state */
 .navbar-dark .navbar-nav .nav-link:hover {
-    color: #adb5bd; /* Lighter grey for hover state */
+    color: #0072B2; /* Bang Wong blue for hover state */
 	text-decoration: none;
 }
 
 /* Active state */
 .navbar-dark .navbar-nav .nav-link.active {
-    color: #ffcc00; /* Yellow for active link */
+    color: #F0E442; /* Bang Wong yellow for active link */
 	text-decoration: none;
 }
 
 /* Visited links */
 .navbar-dark .navbar-nav .nav-link:visited {
-    color: #e9ecef; /* Slightly darker light color for visited links */
+    color: #56B4E9; /* Bang Wong sky blue for visited links */
 	text-decoration: none;
 }
 
 /* Links in dark background */
 .bg-dark a {
-    color: #f8f9fa; /* Light color for links on dark background */
+    color: #F0E442; /* Bang Wong yellow for active link */
 	text-decoration: none;
 }
 
 /* Hover and focus for links in dark background */
 .bg-dark a:hover, .bg-dark a:focus {
-    color: #adb5bd; /* Light grey for hover and focus states */
+    color: #56B4E9; /* Bang Wong sky blue for visited links */
     text-decoration: none; /* Optional for better visibility */
 	border-style: none;
 }
@@ -143,7 +153,7 @@ a:active {
 }
 
 .navbar-dark .dropdown-menu-custom a:hover {
-	color: #ffc107; /* Hover color */
+	color: #F0E442; /* Bang Wong yellow hover */
 	text-decoration: none;
 	width: 100%;
 }
@@ -178,6 +188,44 @@ a:active {
 	margin-right: none; /* Bring dropdown menu closer to navbar */
 }
 
+.btn {
+	margin-bottom: none; /* Reduce space between buttons */
+	margin-top: none; /* Bring dropdown menu closer to navbar */
+	margin-left: none; /* Reduce space between buttons */
+	margin-right: none; /* Bring dropdown menu closer to navbar */
+}
+
+.btn-lg {
+  padding: 0.5rem 1rem;
+  font-size: 1.25rem;
+  border-radius: 0.3rem;
+}
+
+.btn-primary {
+  background-color: #005f87;
+  border-color: #0072B2;
+  color: #E69F00;
+}
+
+.btn-primary:hover {
+  color: #E69F00;
+  background-color: #005f87;
+  border-color: #005f87;
+}
+
+.btn-outline-primary {
+  color: white;
+  background-color: #005f87;
+  border-color: #0072B2;
+}
+
+.btn-outline-primary:hover {
+  border-color: #0072B2;
+  background-color: #005f87;
+  color: white;
+}
+
+
 .navbar-dark .dropdown-menu a.nav-link {
 	padding: 0rem; /* Reduce padding inside buttons */
 	margin-bottom: none; /* Reduce space between buttons */
@@ -187,24 +235,24 @@ a:active {
 }
 
 .md-block a {
-    color: red !important;
+    color: #E69F00 !important; /* Bang Wong orange */
 }
-        /* Center the table on the page */
-        table {
-            background-color: white;
-            width: 75%; /* Optional: Adjust width as needed */
-            margin: 0 auto; /* Center the table horizontally */
-            border: 1px solid #ccc; /* Optional: Add border */
-        }
+/* Center the table on the page */
+table {
+    background-color: white;
+    width: 75%; /* Optional: Adjust width as needed */
+    margin: 0 auto; /* Center the table horizontally */
+    border: 1px solid #ccc; /* Optional: Add border */
+}
 
-        /* Center the content inside the table */
-        td {
-            padding: 10px; /* Add padding to cells */
-            text-align: center; /* Center text horizontally */
-            vertical-align: middle; /* Center text vertically */
-        }
+/* Center the content inside the table */
+td {
+    padding: 10px; /* Add padding to cells */
+    text-align: center; /* Center text horizontally */
+    vertical-align: middle; /* Center text vertically */
+}
 .footer-heading {
-  color: #ffcc00; /* Yellow for strong contrast */
+  color: #F0E442; /* Bang Wong yellow */
   font-size: 16px; /* Equivalent to h6 */
   text-transform: uppercase; /* Uppercase for headings */
   margin-top: 5px;
@@ -218,7 +266,7 @@ a:active {
   padding: 45px 0 20px;
   font-size: 15px;
   line-height: 24px;
-  color: #f8f9fa; /* Light color for text contrast */
+  color: #0072B2; /* Bang Wong blue hover */
 }
 
 .site-footer hr {
@@ -253,7 +301,7 @@ a:active {
 }
 
 .footer-links a:active, .footer-links a:focus, .footer-links a:hover {
-  color: #ffcc00; /* Yellow for active, focus, and hover states */
+  color: #F0E442; /* Bang Wong yellow */
   text-decoration: none;
 }
 
@@ -351,7 +399,7 @@ a:active {
 {
   background-color:#3b5998
 }
-.social-icons a.github:hover
+.social-icons a.facebook:hover
 {
   background-color:#00aced
 }
@@ -554,8 +602,6 @@ img {
   display: block;
   object-fit: cover;
 }
-
-
 
 </style>
 
