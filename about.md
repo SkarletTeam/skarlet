@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Us!
+title: About Us! - Skarlet Corp. IT and Security Services
 ---
 
 <!-- Header-->
