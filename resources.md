@@ -17,7 +17,7 @@ title: Free Resources! - Skarlet Corp. IT and Security Services
                     <div class="card-body p-5">
                         <div class="badge small text-uppercase fw-bold">Free</div>
                         <div class="mb-3">
-                            <span class="display-5 fw-bold">Security Check-list</span>
+                            <span class="display-5 fw-bold">Security Checklist</span>
                             <span class="text-muted"></span>
                         </div>
                         <div class="d-grid"><a class="btn btn-primary" href="/assets/surveys/security_checklist_download">Download</a></div>
@@ -43,10 +43,10 @@ title: Free Resources! - Skarlet Corp. IT and Security Services
                     <div class="card-body p-5">
                         <div class="badge small text-uppercase fw-bold">Free</div>
                         <div class="mb-3">
-                            <span class="display-5 fw-bold">Coming Soon...</span>
+                            <span class="display-5 fw-bold">Remote Work Checklist</span>
                             <span class="text-muted"></span>
                         </div>
-                        <div class="d-grid"><a class="btn btn-primary disabled" href="#!">Download</a></div>
+                        <div class="d-grid"><a class="btn btn-primary" href="/assets/surveys/ultimate_remote_work_readiness_checklist">Download</a></div>
                     </div>
                 </div>
             </div>
