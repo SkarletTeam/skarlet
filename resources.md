@@ -28,6 +28,8 @@ title: Free Resources! - Skarlet Corp. IT and Security Services
             <div class="col-lg-6 col-xl-4">
                 <div class="card mb-5 mb-xl-0">
                     <div class="card-body p-5">
+						<div class="badge small text-uppercase fw-bold">New</div>
+						
                         <div class="badge small text-uppercase fw-bold">Free</div>
                         <div class="mb-3">
                             <span class="display-5 fw-bold">It Compliance Quick Guide</span>
@@ -41,12 +43,50 @@ title: Free Resources! - Skarlet Corp. IT and Security Services
             <div class="col-lg-6 col-xl-4">
                 <div class="card">
                     <div class="card-body p-5">
+						<div class="badge small text-uppercase fw-bold">Coming Soon</div>
+						
                         <div class="badge small text-uppercase fw-bold">Free</div>
                         <div class="mb-3">
                             <span class="display-5 fw-bold">Remote Work Checklist</span>
                             <span class="text-muted"></span>
                         </div>
-                        <div class="d-grid"><a class="btn btn-primary" href="/assets/surveys/ultimate_remote_work_readiness_checklist">Download</a></div>
+                        <div class="d-grid"><a class="btn btn-primary" href="/assets/surveys/underconstruction">Download</a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-xl-4">
+                <div class="card">
+                    <div class="card-body p-5">
+                        <div class="badge small text-uppercase fw-bold">Free</div>
+                        <div class="mb-3">
+                            <span class="display-5 fw-bold"><!--Signs You Need a Professional-->Coming Soon..</span>
+                            <span class="text-muted"></span>
+                        </div>
+                        <div class="d-grid"><a class="btn btn-primary disabled" href="#">Download</a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-xl-4">
+                <div class="card">
+                    <div class="card-body p-5">
+                        <div class="badge small text-uppercase fw-bold">Free</div>
+                        <div class="mb-3">
+                            <span class="display-5 fw-bold">Coming Soon...</span>
+                            <span class="text-muted"></span>
+                        </div>
+                        <div class="d-grid"><a class="btn btn-primary disabled" href="#">Download</a></div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-xl-4">
+                <div class="card">
+                    <div class="card-body p-5">
+                        <div class="badge small text-uppercase fw-bold">Free</div>
+                        <div class="mb-3">
+                            <span class="display-5 fw-bold">Coming Soon...</span>
+                            <span class="text-muted"></span>
+                        </div>
+                        <div class="d-grid"><a class="btn btn-primary disabled" href="#">Download</a></div>
                     </div>
                 </div>
             </div>
