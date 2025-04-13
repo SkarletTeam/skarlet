@@ -62,7 +62,7 @@ title: Free Resources! - Skarlet Corp. IT and Security Services
                             <span class="display-5 fw-bold"><!--Signs You Need a Professional-->Coming Soon..</span>
                             <span class="text-muted"></span>
                         </div>
-                        <div class="d-grid"><a class="btn btn-primary disabled" href="#">Download</a></div>
+                        <div class="d-grid"><a class="btn btn-primary disabled" href="/assets/surveys/underconstruction">Download</a></div>
                     </div>
                 </div>
             </div>
@@ -74,7 +74,7 @@ title: Free Resources! - Skarlet Corp. IT and Security Services
                             <span class="display-5 fw-bold">Coming Soon...</span>
                             <span class="text-muted"></span>
                         </div>
-                        <div class="d-grid"><a class="btn btn-primary disabled" href="#">Download</a></div>
+                        <div class="d-grid"><a class="btn btn-primary disabled" href="/assets/surveys/underconstruction">Download</a></div>
                     </div>
                 </div>
             </div>
@@ -86,7 +86,7 @@ title: Free Resources! - Skarlet Corp. IT and Security Services
                             <span class="display-5 fw-bold">Coming Soon...</span>
                             <span class="text-muted"></span>
                         </div>
-                        <div class="d-grid"><a class="btn btn-primary disabled" href="#">Download</a></div>
+                        <div class="d-grid"><a class="btn btn-primary disabled" href="/assets/surveys/underconstruction">Download</a></div>
                     </div>
                 </div>
             </div>
