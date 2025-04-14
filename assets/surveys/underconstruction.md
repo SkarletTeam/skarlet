@@ -1,6 +1,7 @@
 ---
 layout: default
-title: IT Compliance Quick Guide Download - Skarlet Corp. IT and Security Services
+title: Under Construction!
+description: Under Construction! Check Back Later.
 ---
 
 <div>

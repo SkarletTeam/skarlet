@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Customer Satisfaction Survey - Skarlet Corp. IT and Security Services
+title: Customer Satisfaction Survey
+description: Customer Satisfaction Survey
 ---
 
 <div>

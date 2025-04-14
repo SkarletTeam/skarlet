@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Managed IT Services
+description: Managed IT Services
 ---
 
 <!-- Header-->

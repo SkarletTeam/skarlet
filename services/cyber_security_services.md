@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Managed Cyber Security Services - Skarlet Corp. IT and Security Services
+title: Managed Cyber Security Services 
+description: Managed Cyber Security Services
 ---
 
 <!-- Header-->

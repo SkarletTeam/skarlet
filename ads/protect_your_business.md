@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Protect Your Business—Comprehensive Cybersecurity Solutions for SMBs
+description: Protect Your Business—Comprehensive Cybersecurity Solutions for SMBs
 ---
 
 <meta name="description" content="Skarlet Corp. Managed IT and Cyber Security Services in Dixie County Florida">

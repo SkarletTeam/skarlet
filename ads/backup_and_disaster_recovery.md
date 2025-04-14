@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Simplify Your Business IT - Stress-Free Managed IT Solutions
+title: Backup and Disaster Recovery
+description: Simplify Your Business IT
 ---
 
 <meta name="description" content="Skarlet Corp. Managed IT and Cyber Security Services in Dixie County Florida">

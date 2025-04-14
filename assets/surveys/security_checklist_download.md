@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Security Checklist Download - Skarlet Corp. IT and Security Services
+title: Security Checklist Download
+description: Security Checklist Download
 ---
 
 <div>

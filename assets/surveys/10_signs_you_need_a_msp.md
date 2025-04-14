@@ -1,6 +1,7 @@
 ---
 layout: default
-title: IT Compliance Quick Guide Download - Skarlet Corp. IT and Security Services
+title: 10 Signs You Need a MSP!
+description: 10 Signs You Need a MSP!
 ---
 
 <div>

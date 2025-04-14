@@ -1,6 +1,7 @@
 ---
 layout: default
-title: IT Compliance Quick Guide Download - Skarlet Corp. IT and Security Services
+title: Ultimate Remote Work Readiness Checklist!
+description: Ultimate Remote Work Readiness Checklist!
 ---
 
 <div>

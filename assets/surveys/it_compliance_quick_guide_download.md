@@ -1,6 +1,7 @@
 ---
 layout: default
-title: IT Compliance Quick Guide Download - Skarlet Corp. IT and Security Services
+title: IT Compliance Quick Guide Download
+description: IT Compliance Quick Guide Download
 ---
 
 <div>

@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Backup Services - Skarlet Corp. IT and Security Services
+title: Backup Services
+description: Backup Services
 ---
 
 <!-- Header-->
