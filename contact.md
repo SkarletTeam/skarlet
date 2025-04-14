@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Contact Us! - Skarlet Corp. IT and Security Services
+title: Contact Us!
+description: Contact Skarlet Corp for Your IT and Security Questions.
 ---
 
 <meta name="description" content="Contact Skarlet Corp. Managed IT and Cyber Security Services in Dixie County Florida">

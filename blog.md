@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Security Blog!
+title: Skarlet IT & Security Blog!
 permalink: /blog/
 ---
 <br><br>

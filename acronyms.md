@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Acronyms - Skarlet Corp. IT and Security Services
+title: Acronyms
+description: Common Acronyms Used in IT and Security!
 ---
 
 <style>

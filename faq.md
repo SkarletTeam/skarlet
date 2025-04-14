@@ -1,8 +1,8 @@
 ---
 layout: default
-title: FAQ! - Skarlet Corp. IT and Security Services
+title: FAQ!
+description: Frequently Asked Questions
 ---
-<meta name="description" content="Frequently asked Questions for Skarlet Corp. Managed IT and Cyber Security Services in Dixie County Florida">
 
 <div class="card rounded border-0 overflow-hidden">
 <br>

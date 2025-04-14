@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Privacy Policy - Skarlet Corp. IT and Security Services
+title: Privacy Policy
+description: Skarlet Corp. Privacy Policy
 ---
 <div class="container mt-4">
   <div class="card shadow rounded overflow-hidden">
@@ -29,7 +30,7 @@ title: Privacy Policy - Skarlet Corp. IT and Security Services
     <ul>
       <li>To schedule and confirm your meeting</li>
       <li>To send you requested downloads or resources</li>
-      <li>To send you marketing materials (if you have opted in)</li>
+      <li>To send you marketing materials</li>
     </ul>
   </p>
   <p><strong>Data Sharing and Security</strong></p>

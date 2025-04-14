@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Free Resources! - Skarlet Corp. IT and Security Services
+title: Free Resources!
+description: Download Free Resources!
 ---
-<meta name="description" content="Free Resources by Skarlet Corp. Managed IT and Cyber Security Services in Dixie County Florida">
 
 <!-- Download section-->
 <section class="bg-light py-5">
