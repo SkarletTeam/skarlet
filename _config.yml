@@ -1,6 +1,6 @@
 # Site settings
-title: Skarlet Corp. 
-description: IT and Security Services.
+title: Skarlet Corp. IT and Security Services
+description: Skarlet Corp. Managed IT and Cyber Security Services in Dixie County Florida
 baseurl: "" # The subpath of your site, e.g., /blog or leave empty ""
 url: "https://skarlet.org/" # The base URL of your site
 
@@ -26,6 +26,7 @@ defaults:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Pagination for posts
 paginate: 5
@@ -53,4 +54,3 @@ collections:
 # Additional configuration (optional)
 future: false; # Whether to publish posts with future dates
 markdown_ext: "markdown,mkdown,mkdn,mkd,md" # Recognized Markdown file extensions
-
