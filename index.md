@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Homepage - Skarlet Corp. IT and Security Services
+title: Homepage
 description: Skarlet Corp. Managed IT and Cyber Security Services in Dixie County Florida
 ---
 
