@@ -10,19 +10,19 @@
 			  <h5 class="card-title">{{ review.title }}</h5>
 			  <h6 class="card-subtitle mb-2 text-muted">{{ review.author }}</h6>
 			  <p class="card-text">{{ review.content | markdownify }}</p>
-			  <p class="card-text">
+				<p class="card-text">
 				<strong>Rating:</strong> 
-				<span class="stars">
-				  {% assign rating = review.rating %}
-				  {% for i in (1..5) %}
+				<span class="stars text-warning">
+					{% assign rating = review.rating %}
+					{% for i in (1..5) %}
 					{% if i <= rating %}
-					  <span class="fa fa-star checked"></span>
+						<i class="bi bi-star-fill"></i>
 					{% else %}
-					  <span class="fa fa-star"></span>
+						<i class="bi bi-star"></i>
 					{% endif %}
-				  {% endfor %}
+					{% endfor %}
 				</span>
-			  </p>
+				</p>
 			  <p class="card-text"><small>{{ review.date | date: "%B %d, %Y" }}</small></p>
 			</div>
 		  </div>
