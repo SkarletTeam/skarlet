@@ -17,7 +17,7 @@ description: Download Free Resources!
                     <div class="card-body p-5">
                         <div class="badge small text-uppercase fw-bold">Free</div>
                         <div class="mb-3">
-                            <span class="display-5 fw-bold">Security Checklist</span>
+                            <span class="fw-bold">Security Checklist</span>
                             <span class="text-muted"></span>
                         </div>
                         <div class="d-grid"><a class="btn btn-primary" href="/assets/surveys/security_checklist_download">Download</a></div>
@@ -32,7 +32,7 @@ description: Download Free Resources!
 						
                         <div class="badge small text-uppercase fw-bold">Free</div>
                         <div class="mb-3">
-                            <span class="display-5 fw-bold">It Compliance Quick Guide</span>
+                            <span class=" fw-bold">It Compliance Quick Guide</span>
                             <span class="text-muted"></span>
                         </div>
                         <div class="d-grid"><a class="btn btn-primary" href="/assets/surveys/it_compliance_quick_guide_download">Download</a></div>
@@ -47,7 +47,7 @@ description: Download Free Resources!
 						
                         <div class="badge small text-uppercase fw-bold">Free</div>
                         <div class="mb-3">
-                            <span class="display-5 fw-bold">Remote Work Checklist</span>
+                            <span class=" fw-bold">Remote Work Checklist</span>
                             <span class="text-muted"></span>
                         </div>
                         <div class="d-grid"><a class="btn btn-primary" href="/assets/surveys/underconstruction">Download</a></div>
@@ -59,7 +59,7 @@ description: Download Free Resources!
                     <div class="card-body p-5">
                         <div class="badge small text-uppercase fw-bold">Free</div>
                         <div class="mb-3">
-                            <span class="display-5 fw-bold"><!--Signs You Need a Professional-->Coming Soon..</span>
+                            <span class=" fw-bold"><!--Signs You Need a Professional-->Coming Soon..</span>
                             <span class="text-muted"></span>
                         </div>
                         <div class="d-grid"><a class="btn btn-primary disabled" href="/assets/surveys/underconstruction">Download</a></div>
@@ -71,7 +71,7 @@ description: Download Free Resources!
                     <div class="card-body p-5">
                         <div class="badge small text-uppercase fw-bold">Free</div>
                         <div class="mb-3">
-                            <span class="display-5 fw-bold">Coming Soon...</span>
+                            <span class=" fw-bold">Coming Soon...</span>
                             <span class="text-muted"></span>
                         </div>
                         <div class="d-grid"><a class="btn btn-primary disabled" href="/assets/surveys/underconstruction">Download</a></div>
@@ -83,7 +83,7 @@ description: Download Free Resources!
                     <div class="card-body p-5">
                         <div class="badge small text-uppercase fw-bold">Free</div>
                         <div class="mb-3">
-                            <span class="display-5 fw-bold">Coming Soon...</span>
+                            <span class=" fw-bold">Coming Soon...</span>
                             <span class="text-muted"></span>
                         </div>
                         <div class="d-grid"><a class="btn btn-primary disabled" href="/assets/surveys/underconstruction">Download</a></div>
