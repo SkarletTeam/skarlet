@@ -17,6 +17,7 @@ description: Download Free Resources!
                     <div class="card-body p-5">
                         <div class="badge small text-uppercase fw-bold">Free</div>
                         <div class="mb-3">
+							<div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-2 shadow" src="/img/Small_Business_Security_checklist-page-001.jpg" width="150px"  alt="Security Checklist"></div>
                             <span class="fw-bold">Security Checklist</span>
                             <span class="text-muted"></span>
                         </div>
@@ -29,9 +30,10 @@ description: Download Free Resources!
                 <div class="card mb-5 mb-xl-0">
                     <div class="card-body p-5">
 						<div class="badge small text-uppercase fw-bold">New</div>
-						
                         <div class="badge small text-uppercase fw-bold">Free</div>
+
                         <div class="mb-3">
+							<div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-2 shadow" src="/img/it_compliance_quick_guide-page-001.jpg" width="150px"  alt="Compliance Quick Guide"></div>
                             <span class=" fw-bold">It Compliance Quick Guide</span>
                             <span class="text-muted"></span>
                         </div>
@@ -47,6 +49,7 @@ description: Download Free Resources!
 						
                         <div class="badge small text-uppercase fw-bold">Free</div>
                         <div class="mb-3">
+							<div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-2 shadow" src="/img/ultimate_remote_work_readiness_checklist-page-001.jpg" width="150px"  alt="Remote Work Readiness Checklist"></div>
                             <span class=" fw-bold">Remote Work Checklist</span>
                             <span class="text-muted"></span>
                         </div>
@@ -59,6 +62,7 @@ description: Download Free Resources!
                     <div class="card-body p-5">
                         <div class="badge small text-uppercase fw-bold">Free</div>
                         <div class="mb-3">
+							<div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-2 shadow" src="/img/thumbnail_coming_soon-page-001.jpg" width="150px"  alt="Coming Soon..."></div>
                             <span class=" fw-bold"><!--Signs You Need a Professional-->Coming Soon..</span>
                             <span class="text-muted"></span>
                         </div>
@@ -71,6 +75,7 @@ description: Download Free Resources!
                     <div class="card-body p-5">
                         <div class="badge small text-uppercase fw-bold">Free</div>
                         <div class="mb-3">
+							<div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-2 shadow" src="/img/thumbnail_coming_soon-page-001.jpg" width="150px"  alt="Coming Soon..."></div>
                             <span class=" fw-bold">Coming Soon...</span>
                             <span class="text-muted"></span>
                         </div>
@@ -83,6 +88,7 @@ description: Download Free Resources!
                     <div class="card-body p-5">
                         <div class="badge small text-uppercase fw-bold">Free</div>
                         <div class="mb-3">
+							<div class="col-xl-5 col-xxl-6 d-none d-xl-block text-center"><img class="img-fluid rounded-3 my-2 shadow" src="/img/thumbnail_coming_soon-page-001.jpg" width="150px"  alt="Coming Soon..."></div>
                             <span class=" fw-bold">Coming Soon...</span>
                             <span class="text-muted"></span>
                         </div>
