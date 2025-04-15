@@ -10,7 +10,7 @@ description: Managed VoIP Services
             <div class="col-lg-8 col-xl-7 col-xxl-6">
                 <div class="my-5 text-center text-xl-start">
                     <h1 class="display-5 fw-bolder text-white mb-2"><span style="font-size:3rem;">&#128222;</span><strong>Managed VoIP</strong></h1>
-                    <p class="lead fw-normal text-white-50 mb-4">Enhance call quality, access cutting-edge VoIP features, and resolve issues quickly with our Managed VoIP service.</p>
+                    <p class="lead fw-normal text-white mb-4">Enhance call quality, access cutting-edge VoIP features, and resolve issues quickly with our Managed VoIP service.</p>
                     <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
 
                     </div>

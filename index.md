@@ -10,11 +10,11 @@ description: Skarlet Corp. Managed IT and Cyber Security Services in Dixie Count
         <div class="row gx-5 align-items-center justify-content-center">
             <div class="col-lg-8 col-xl-7 col-xxl-6">
                 <div class="my-5 text-center text-xl-start">
-                    <h1 class="display-5 fw-bolder text-white mb-2">Skarlet Corp.</h1>
+                    <h1 class="display-4 fw-bolder text-white mb-2">Skarlet Corp.</h1>
 					<p class="display-6 fw-bolder text-white mb-2"><strong>IT Solutions You Can Rely On</strong></p>
                     <p class="lead fw-normal text-white mb-4">Skarlet Corp delivers reliable, affordable IT solutions for SMBs in Dixie County, FL. With 16+ years of experience, we keep your systems running smoothly and secure against cyber threats.</p>
                     <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
-                        <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#features">Get Started</a>
+                        <a class="btn btn-primary btn-lg px-4 me-sm-3 text-decoration-none" style="display: inline-block; border: 1px solid; box-shadow: none;" href="#features">Get Started</a>
                         <a class="btn btn-outline-primary btn-lg px-4" href="#services">Learn More</a>
                     </div>
                 </div>
