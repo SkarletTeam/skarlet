@@ -226,6 +226,8 @@ description: Skarlet Corp. Managed IT and Cyber Security Services in Dixie Count
                     </div>
                 </div>
             </div>
+			<!-- Partner Program section-->
+			<img class="card-img-top" src="/img/partner_program.webp" alt="Partner Programs" />
         </div>
 	</div>
 </section>

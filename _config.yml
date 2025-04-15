@@ -54,3 +54,4 @@ collections:
 # Additional configuration (optional)
 future: false; # Whether to publish posts with future dates
 markdown_ext: "markdown,mkdown,mkdn,mkd,md" # Recognized Markdown file extensions
+
