@@ -53,14 +53,14 @@ description: About Skarlet Corp.
         <div class="row gx-5 row-cols-1 row-cols-sm-2 row-cols-xl-4 justify-content-center">
             <div class="col mb-5 mb-5 mb-xl-0">
                 <div class="text-center">
-                    <img class="img-fluid rounded-circle mb-4 px-4" src="https://dummyimage.com/150x150/ced4da/6c757d" alt="Photo Placeholder" />
+                    <img class="img-fluid rounded-circle mb-4 px-4" src="../img/person-circle.svg" width="150" height="100%" alt="Photo Placeholder" />
                     <h5 class="fw-bolder">J. Milford</h5>
                     <div class="fst-italic text-muted">Owner &amp; President</div>
                 </div>
            </div>
             <div class="col mb-5 mb-5 mb-xl-0">
                 <div class="text-center">
-                    <img class="img-fluid rounded-circle mb-4 px-4" src="https://dummyimage.com/150x150/ced4da/6c757d" alt="Photo Placeholder" />
+                    <img class="img-fluid rounded-circle mb-4 px-4" src="../img/person-circle.svg" width="150" height="100%" alt="Photo Placeholder" />
                     <h5 class="fw-bolder">Lexi Sinclair</h5>
                     <div class="fst-italic text-muted">Administrative Assistant</div>
                 </div>
