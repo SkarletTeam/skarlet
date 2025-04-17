@@ -1,0 +1,299 @@
+#mc_embed_signup {
+	background:#fff; 
+	clear:left; 
+	font:14px Helvetica,Arial,sans-serif; 
+	width: 600px;
+}
+	
+a:link {
+  color: red;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: green;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.md-block a {
+    color: red !important;
+}
+        /* Center the table on the page */
+        table {
+            background-color: white;
+            width: 75%; /* Optional: Adjust width as needed */
+            margin: 0 auto; /* Center the table horizontally */
+            border: 1px solid #ccc; /* Optional: Add border */
+        }
+
+        /* Center the content inside the table */
+        td {
+            padding: 10px; /* Add padding to cells */
+            text-align: center; /* Center text horizontally */
+            vertical-align: middle; /* Center text vertically */
+        }
+
+.credly-badge-container[data-share-badge-id="b0294240-a20e-4b24-94f6-db779fa4027f"],
+.credly-badge-container[data-share-badge-id="f449a5c2-c458-4270-9ad6-8765348f60ee"],
+.credly-badge-container[data-share-badge-id="46ccb7ce-fa87-44dd-9c1d-d820d03a4a37"],
+.credly-badge-container[data-share-badge-id="77ed919c-031f-4ddb-a243-35ab016e96c7"],
+.credly-badge-container[data-share-badge-id="0c931d6c-1d07-406c-8740-59dc0c5beb23"],
+.credly-badge-container[data-share-badge-id="2cf3d69e-a07a-4304-b8ed-b3d9807af64a"] {
+    background-color: #D3D3D3;
+    padding: 15px;
+    border-radius: 0px;
+}
+.site-footer {
+  background-color: #26272b;
+  padding: 45px 0 20px;
+  font-size: 15px;
+  line-height: 24px;
+  color: #737373;
+}
+
+.site-footer hr {
+  border-top-color: #bbb;
+  opacity: 0.5;
+}
+
+.site-footer hr.small {
+  margin: 20px 0;
+}
+
+.site-footer h6 {
+  color: #fff;
+  font-size: 16px;
+  text-transform: uppercase;
+  margin-top: 5px;
+  letter-spacing: 2px;
+}
+
+.site-footer a {
+  color: #737373;
+}
+
+.site-footer a:hover {
+  color: #3366cc;
+  text-decoration: none;
+}
+
+.footer-links {
+  padding-left: 0;
+  list-style: none;
+}
+
+.footer-links li {
+  display: block;
+}
+
+.footer-links a {
+  color: #737373;
+}
+
+.footer-links a:active,
+.footer-links a:focus,
+.footer-links a:hover {
+  color: #3366cc;
+  text-decoration: none;
+}
+
+.footer-links.inline li {
+  display: inline-block;
+}
+
+.site-footer .social-icons {
+  text-align: right;
+}
+
+.site-footer .social-icons a {
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  margin-left: 6px;
+  margin-right: 0;
+  border-radius: 100%;
+  background-color: #33353d;
+}
+
+.copyright-text {
+  margin: 0;
+}
+
+@media (max-width: 991px) {
+  .site-footer [class^="col-"] {
+    margin-bottom: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .site-footer {
+    padding-bottom: 0;
+  }
+
+  .site-footer .copyright-text,
+  .site-footer .social-icons {
+    text-align: center;
+  }
+}
+
+.social-icons {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+
+.social-icons li {
+  display: inline-block;
+  margin-bottom: 4px;
+}
+
+.social-icons li.title {
+  margin-right: 15px;
+  text-transform: uppercase;
+  color: #96a2b2;
+  font-weight: 700;
+  font-size: 13px;
+}
+
+.social-icons a {
+  background-color: #eceeef;
+  color: #818a91;
+  font-size: 16px;
+  display: inline-block;
+  line-height: 44px;
+  width: 44px;
+  height: 44px;
+  text-align: center;
+  margin-right: 8px;
+  border-radius: 100%;
+  transition: all 0.2s linear;
+}
+
+.social-icons a:active,
+.social-icons a:focus,
+.social-icons a:hover {
+  color: #fff;
+  background-color: #29aafe;
+}
+
+.social-icons.size-sm a {
+  line-height: 34px;
+  height: 34px;
+  width: 34px;
+  font-size: 14px;
+}
+
+/* Hover colors for social icons */
+.social-icons a.prideflag:hover {
+  background-color: #FF2400;
+}
+
+.social-icons a.discord:hover {
+  background-color: #3b5998;
+}
+
+.social-icons a.github:hover {
+  background-color: #00aced;
+}
+
+.social-icons a.linkedin:hover {
+  background-color: #007bb6;
+}
+
+.social-icons a.youtube:hover {
+  background-color: #ea4c89;
+}
+
+@media (max-width: 767px) {
+  .social-icons li.title {
+    display: block;
+    margin-right: 0;
+    font-weight: 600;
+  }
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    padding: 0;
+    display: inline-block;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+/* Carousel background white */
+.carousel-inner {
+  background-color: #ffffff; /* White background */
+}
+
+/* Indicators - grey when inactive, black when active */
+.carousel-indicators li {
+  background-color: #cccccc; /* Grey when inactive */
+}
+
+.carousel-indicators .active {
+  background-color: #000000; /* Black when active */
+}
+
+/* Control arrows - grey when not active, black when active, no background */
+.carousel-control-prev-icon, .carousel-control-next-icon {
+  background-image: none; /* Remove default background */
+  border: 2px solid transparent; /* No border */
+  width: 50px;
+  height: 50px;
+}
+
+/* Use pseudo-elements for custom arrow styles */
+.carousel-control-prev-icon::before, .carousel-control-next-icon::before {
+  content: ''; /* Add content for arrows */
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: grey;
+  transform: rotate(-45deg); /* Grey color for inactive */
+}
+
+.carousel-control-prev-icon::before {
+  border-width: 0 0 2px 2px;
+  transform: rotate(45deg); /* Create the left arrow */
+}
+
+.carousel-control-next-icon::before {
+  border-width: 0 2px 2px 0;
+}
+
+/* Change color to black on hover or active */
+.carousel-control-prev:hover .carousel-control-prev-icon::before, .carousel-control-next:hover .carousel-control-next-icon::before {
+  border-color: black; /* Black on hover */
+}
+
+.checked {
+  color: gold;
+}
+
+.stars .fa-star {
+  color: lightgray; /* Empty stars */
+}
+
+.stars .checked {
+  color: gold; /* Filled stars */
+}

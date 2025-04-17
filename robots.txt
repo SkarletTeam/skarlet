@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /cyber/
+
+
+User-agent: *
+Allow: /
+
+Sitemap: https://skarlet.org/sitemap.xml

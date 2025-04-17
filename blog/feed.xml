@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skarlet Corp. IT and Security Services</title>
+    <link>https://skarlet.org//blog</link>
+    <atom:link href="https://skarlet.org//blog/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Skarlet Corp. Managed IT and Cyber Security Services in Dixie County Florida</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Apr 2025 16:16:05 +0000</lastBuildDate>
+
+    
+    
+    
+    <item>
+      <title>5 Signs Your Business Needs a Professional IT Assessment</title>
+      <link>https://skarlet.org//2025/04/17/professional_it_assessment/</link>
+      <guid isPermaLink="true">https://skarlet.org//2025/04/17/professional_it_assessment/</guid>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <author>Anonymous</author>
+      <description><![CDATA[
+        <p>Technology is the backbone of modern business—but many small and mid-sized companies are running on outdated, misaligned, or unsecured IT systems without realizing it. Whether you’ve grown rapidly, inherited a patchwork setup, or just haven’t had a health check in years, a professional IT assessment can reveal where your infrastructure is falling short—and how to fix it.</p>
+        
+        <p><img src="https://skarlet.org//img/blog/assessment.jpg" alt="5 Signs Your Business Needs a Professional IT Assessment"></p>
+        
+      ]]></description>
+      
+        
+          <category>tech</category>
+        
+          <category>blog</category>
+        
+      
+    </item>
+    
+    <item>
+      <title>The Importance of Cybersecurity Awareness Training for Employees</title>
+      <link>https://skarlet.org//2025/04/10/training_importance/</link>
+      <guid isPermaLink="true">https://skarlet.org//2025/04/10/training_importance/</guid>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <author>Anonymous</author>
+      <description><![CDATA[
+        <p>In today’s digital landscape, employees are both the first line of defense and the most common point of failure when it comes to cybersecurity. While businesses often focus on firewalls, antivirus software, and encryption, they sometimes overlook one of the most critical components of any security strategy— employee awareness training.</p>
+        
+        <p><img src="https://skarlet.org//img/blog/training.jpg" alt="The Importance of Cybersecurity Awareness Training for Employees"></p>
+        
+      ]]></description>
+      
+        
+          <category>tech</category>
+        
+          <category>blog</category>
+        
+      
+    </item>
+    
+  </channel>
+</rss>
+
