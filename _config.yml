@@ -27,10 +27,28 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-paginate-v2
 
 # Pagination for posts
-paginate: 5
-paginate_path: "/blog/page:num/"
+# paginate: 5
+# paginate_path: "/blog/page:num/"
+pagination:
+  enabled: true
+  per_page: 6
+  permalink: /blog/page/:num/
+  title: ":title - page :num"
+  sort_field: "date"
+  sort_reverse: true
+  
+pagination:
+  enabled: true
+  collections:
+    post_lg:
+      per_page: 6
+      permalink: /howtos/page/:num/
+      title: "How-To Guides - Page :num"
+      sort_field: "date"
+      sort_reverse: true
 
 # Exclude files or directories from processing
 exclude:
@@ -43,13 +61,16 @@ exclude:
 include:
   - _pages
   - _posts
-  - _documentation
+  - _post_lg
   
 collections:
   reviews:
     output: true
   posts:
     output: true
+  post_lg:
+    output: true
+    permalink: /howtos/:title/
 
 # Additional configuration (optional)
 future: false; # Whether to publish posts with future dates
