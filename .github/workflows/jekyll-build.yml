@@ -1,0 +1,36 @@
+name: Jekyll Build with Paginate V2
+
+on:
+  push:
+    branches:
+      - main  # Or your default branch
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.4' # Adjust as needed
+        bundler-cache: true
+
+    - name: Install dependencies
+      run: |
+        gem install bundler
+        bundle install
+
+    - name: Build Jekyll site
+      run: bundle exec jekyll build
+
+    - name: Upload _site as artifact (optional)
+      uses: actions/upload-artifact@v4
+      with:
+        name: jekyll-site
+        path: _site
+
