@@ -19,8 +19,6 @@ gem "jekyll-seo-tag" # If you’re using SEO features
 group :jekyll_plugins do
   gem 'jekyll-feed'
   gem 'jekyll-sitemap'
-  gem 'jekyll-seo-tag'
   gem 'jekyll-archives'
-  gem 'jekyll-paginate-v2'
 end
 
