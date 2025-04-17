@@ -53,10 +53,11 @@ pagination:
 # Exclude files or directories from processing
 exclude:
   - README.md
+  - _site
+  - vendor
   - Gemfile
   - Gemfile.lock
-  - node_modules/
-  - _site
+  - node_modules
 
 # Include specific files for processing (if needed)
 include:
