@@ -8,7 +8,7 @@ gem 'base64'
 gem 'bigdecimal'
 gem 'kramdown-parser-gfm'
 gem 'jekyll-sass-converter'
-gem "jekyll", "~> 4.3.2"
+gem "jekyll"
 gem "jekyll-paginate-v2"
 gem "jekyll-seo-tag" # If you’re using SEO features
 
