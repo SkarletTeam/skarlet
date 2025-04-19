@@ -1,0 +1,33 @@
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  let hasShownPopup = false;
+
+  // Show popup on exit intent
+  document.addEventListener("mouseleave", function (e) {
+    if (e.clientY <= 0 && !hasShownPopup) {
+      document.getElementById("exitPopup").classList.remove("hidden");
+      hasShownPopup = true;
+    }
+  });
+
+  // Close popup when "No thanks" is clicked
+  const closeBtn = document.getElementById("closeExitPopup");
+  if (closeBtn) {
+    closeBtn.addEventListener("click", function () {
+      document.getElementById("exitPopup").classList.add("hidden");
+    });
+  }
+});
+</script>
+
+<div id="exitPopup" class="exit-popup hidden">
+  <div class="exit-popup-content text-center p-4">
+    <h3>Wait! Before you go...</h3>
+	<img class="img-fluid rounded-3 mb-3 shadow" src="/img/Small_Business_Security_checklist-page-001.jpg" style="max-width: 150px;"  alt="Security Checklist">
+    <p>Download our FREE Cybersecurity Checklist for Small Businesses!</p>
+	<div class="d-flex justify-content-center mt-3 gap-2">
+    <a href="/assets/surveys/security_checklist_download" class="btn btn-primary fixed-btn">Get It Now</a>
+    <button id="closeExitPopup" class="btn btn-secondary fixed-btn">No thanks</button>
+	</div>
+  </div>
+</div>
