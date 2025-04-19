@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "5 Signs Your Business Needs a Professional IT Assessment"
-tags: [tech, blog]
+tags: [itassessment]
+category: [blog]
 excerpt: "Technology is the backbone of modern business—but many small and mid-sized companies are running on outdated, misaligned, or unsecured IT systems without realizing it. Whether you’ve grown rapidly, inherited a patchwork setup, or just haven’t had a health check in years, a professional IT assessment can reveal where your infrastructure is falling short—and how to fix it."
 author: "Anonymous"
 date: 2025-04-17

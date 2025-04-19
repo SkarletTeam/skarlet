@@ -1,7 +1,8 @@
 ---
 layout: post_lg
 title: "Windows Baseline Configurations"
-tags: [tech, blog]
+tags: [tech, baselines]
+category: [howtos]
 excerpt: "In this guide, we'll walk through the fundamentals of configuring baseline security settings on Windows using `LGPO.exe`. You'll learn how to back up your Local Group Policy settings, build custom configurations, and parse existing policies. This is a beginner-friendly overview, so for advanced options or the latest updates, be sure to consult Microsoft's official documentation."
 author: "Anonymous"
 date: 2025-04-16

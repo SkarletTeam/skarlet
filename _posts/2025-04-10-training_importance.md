@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "The Importance of Cybersecurity Awareness Training for Employees"
-tags: [tech, blog]
+tags: [tech, cybersecurity, training]
+category: [blog]
 excerpt: "In today’s digital landscape, employees are both the first line of defense and the most common point of failure when it comes to cybersecurity. While businesses often focus on firewalls, antivirus software, and encryption, they sometimes overlook one of the most critical components of any security strategy— employee awareness training."
 author: "Anonymous"
 date: 2025-04-10
