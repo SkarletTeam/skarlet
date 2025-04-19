@@ -28,7 +28,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate-v2
-  - jekyll-archives
 
 # Pagination for posts
 # paginate: 5
@@ -78,21 +77,4 @@ collections:
 # Additional configuration (optional)
 future: false; # Whether to publish posts with future dates
 markdown_ext: "markdown,mkdown,mkdn,mkd,md" # Recognized Markdown file extensions
-
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-    - year
-    - month
-  layouts:
-    category: archive
-    tag: archive
-    year: archive
-    month: archive
-  permalinks:
-    category: '/categories/:name/'
-    tag: '/tags/:name/'
-    year: '/:year/'
-    month: '/:year/:month/'
-    
+   
