@@ -7,15 +7,15 @@
     <atom:link href="https://skarlet.org//blog/feed.xml" rel="self" type="application/rss+xml" />
     <description>Skarlet Corp. Managed IT and Cyber Security Services in Dixie County Florida</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Apr 2025 17:06:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Apr 2025 12:39:42 +0000</lastBuildDate>
 
     
     
     
     <item>
       <title>5 Signs Your Business Needs a Professional IT Assessment</title>
-      <link>https://skarlet.org//2025/04/17/professional_it_assessment/</link>
-      <guid isPermaLink="true">https://skarlet.org//2025/04/17/professional_it_assessment/</guid>
+      <link>https://skarlet.org//blog/2025/04/17/professional_it_assessment/</link>
+      <guid isPermaLink="true">https://skarlet.org//blog/2025/04/17/professional_it_assessment/</guid>
       <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
       <author>Anonymous</author>
       <description><![CDATA[
@@ -26,17 +26,36 @@
       ]]></description>
       
         
+          <category>itassessment</category>
+        
+      
+    </item>
+    
+    <item>
+      <title>Windows Baseline Configurations</title>
+      <link>https://skarlet.org//howtos/2025/04/16/windows_baseline_config/</link>
+      <guid isPermaLink="true">https://skarlet.org//howtos/2025/04/16/windows_baseline_config/</guid>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <author>Anonymous</author>
+      <description><![CDATA[
+        <p>In this guide, we'll walk through the fundamentals of configuring baseline security settings on Windows using `LGPO.exe`. You'll learn how to back up your Local Group Policy settings, build custom configurations, and parse existing policies. This is a beginner-friendly overview, so for advanced options or the latest updates, be sure to consult Microsoft's official documentation.</p>
+        
+        <p><img src="https://skarlet.org//img/blog/baselines.webp" alt="Windows Baseline Configurations"></p>
+        
+      ]]></description>
+      
+        
           <category>tech</category>
         
-          <category>blog</category>
+          <category>baselines</category>
         
       
     </item>
     
     <item>
       <title>The Importance of Cybersecurity Awareness Training for Employees</title>
-      <link>https://skarlet.org//2025/04/10/training_importance/</link>
-      <guid isPermaLink="true">https://skarlet.org//2025/04/10/training_importance/</guid>
+      <link>https://skarlet.org//blog/2025/04/10/training_importance/</link>
+      <guid isPermaLink="true">https://skarlet.org//blog/2025/04/10/training_importance/</guid>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
       <author>Anonymous</author>
       <description><![CDATA[
@@ -49,7 +68,9 @@
         
           <category>tech</category>
         
-          <category>blog</category>
+          <category>cybersecurity</category>
+        
+          <category>training</category>
         
       
     </item>
