@@ -17,6 +17,5 @@ gem 'wdm'
 group :jekyll_plugins do
   gem 'jekyll-feed'
   gem 'jekyll-sitemap'
-  gem 'jekyll-archives'
 end
 
